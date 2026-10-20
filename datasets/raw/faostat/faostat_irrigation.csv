@@ -1,0 +1,8 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note
+"RL","Land Use","818","Egypt","5110","Area","6690","Land area equipped for irrigation","2016","2016","1000 ha","3726","I","Value imputed by a receiving agency",""
+"RL","Land Use","818","Egypt","5110","Area","6690","Land area equipped for irrigation","2017","2017","1000 ha","3823","I","Value imputed by a receiving agency",""
+"RL","Land Use","818","Egypt","5110","Area","6690","Land area equipped for irrigation","2018","2018","1000 ha","3823","I","Value imputed by a receiving agency",""
+"RL","Land Use","818","Egypt","5110","Area","6690","Land area equipped for irrigation","2019","2019","1000 ha","3880","I","Value imputed by a receiving agency",""
+"RL","Land Use","818","Egypt","5110","Area","6690","Land area equipped for irrigation","2020","2020","1000 ha","3928","I","Value imputed by a receiving agency",""
+"RL","Land Use","818","Egypt","5110","Area","6616","Land area actually irrigated","2019","2019","1000 ha","3870","A","Official value",""
+"RL","Land Use","818","Egypt","5110","Area","6616","Land area actually irrigated","2020","2020","1000 ha","3333","A","Official value",""

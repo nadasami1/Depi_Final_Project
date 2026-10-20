@@ -4,7 +4,7 @@
     "variable": "pr",
     "source_name": "world_bank_cckp",
     "source_url": "https://drive.google.com/uc?export=download&id=1fwYvpG2A8-VgjX5xE7UrybaVneJ-Fymp",
-    "ingestion_date": "2026-10-20T14:14:48.860724+00:00",
+    "ingestion_date": "2026-10-20T16:49:19.284561+00:00",
     "sha256": "8c18998eebeffda162185617504a59c3b40e33d3a2adb5c1bb5013b487302926",
     "size_bytes": 27362
   },
@@ -13,7 +13,7 @@
     "variable": "tas",
     "source_name": "world_bank_cckp",
     "source_url": "https://drive.google.com/uc?export=download&id=1GgLvrqu5IQlaHQL5IiY7snxKh-axKLiY",
-    "ingestion_date": "2026-10-20T14:14:50.417150+00:00",
+    "ingestion_date": "2026-10-20T16:49:21.171399+00:00",
     "sha256": "4401b31908bc4b2e2dc11993f72842e5c93d9a2a1b00fa515895926be8970200",
     "size_bytes": 23751
   }

@@ -1,0 +1,8 @@
+Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note,standardized_unit,conversion_factor,standardized_value,value_status,geographic_level
+RL,Land Use,818,Egypt,5110,Area,6690,Land area equipped for irrigation,2016,2016,1000 ha,3726,I,Value imputed by a receiving agency,,ha,1000,3726000,available,country
+RL,Land Use,818,Egypt,5110,Area,6690,Land area equipped for irrigation,2017,2017,1000 ha,3823,I,Value imputed by a receiving agency,,ha,1000,3823000,available,country
+RL,Land Use,818,Egypt,5110,Area,6690,Land area equipped for irrigation,2018,2018,1000 ha,3823,I,Value imputed by a receiving agency,,ha,1000,3823000,available,country
+RL,Land Use,818,Egypt,5110,Area,6690,Land area equipped for irrigation,2019,2019,1000 ha,3880,I,Value imputed by a receiving agency,,ha,1000,3880000,available,country
+RL,Land Use,818,Egypt,5110,Area,6690,Land area equipped for irrigation,2020,2020,1000 ha,3928,I,Value imputed by a receiving agency,,ha,1000,3928000,available,country
+RL,Land Use,818,Egypt,5110,Area,6616,Land area actually irrigated,2019,2019,1000 ha,3870,A,Official value,,ha,1000,3870000,available,country
+RL,Land Use,818,Egypt,5110,Area,6616,Land area actually irrigated,2020,2020,1000 ha,3333,A,Official value,,ha,1000,3333000,available,country

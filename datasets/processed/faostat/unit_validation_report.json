@@ -1,0 +1,59 @@
+[
+  {
+    "source_file": "faostat_crop_production_egypt_2016_2020.csv",
+    "rows": 1137,
+    "missing_values_preserved": 12,
+    "areas": [
+      "Egypt"
+    ],
+    "years": [
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "original_units": [
+      "ha",
+      "kg/ha",
+      "t"
+    ],
+    "standardized_units": [
+      "ha",
+      "kg",
+      "kg/ha"
+    ],
+    "source_flags_preserved": {
+      "A": 828,
+      "I": 149,
+      "E": 143,
+      "M": 12,
+      "X": 5
+    }
+  },
+  {
+    "source_file": "faostat_irrigation.csv",
+    "rows": 7,
+    "missing_values_preserved": 0,
+    "areas": [
+      "Egypt"
+    ],
+    "years": [
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "original_units": [
+      "1000 ha"
+    ],
+    "standardized_units": [
+      "ha"
+    ],
+    "source_flags_preserved": {
+      "I": 5,
+      "A": 2
+    }
+  }
+]
