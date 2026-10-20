@@ -1,0 +1,3 @@
+# Used by src/reshape_climate.py; the download script uses only Python's standard library.
+pandas
+openpyxl

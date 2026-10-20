@@ -39,5 +39,16 @@ because Git tracks files rather than empty folders.
 3. Commit only files related to that task, with a descriptive commit message.
 4. Push the branch and open a pull request for review before merging into `main`.
 
-There are no runnable pipeline steps yet. Setup and execution instructions should
-be added with the relevant implementation.
+## Available steps
+
+- [Local climate ingestion](docs/climate_ingestion.md): download the team's
+  original climate workbooks and record source metadata using Python.
+- [Climate reshaping](docs/climate_reshape.md): prepare 2016-2020 annual
+  temperature and rainfall tables and combine them by governorate/year.
+- [FAOSTAT unit preparation](docs/faostat_units.md): standardize units while
+  retaining original values, identifiers, flags, and missing data.
+
+See [Mahmoud's handoff](docs/mahmoud_handoff.md) for run instructions, available
+outputs, validation, and remaining dependencies.
+
+Azure orchestration and the remaining pipeline stages are not implemented yet.
