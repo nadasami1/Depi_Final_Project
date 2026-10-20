@@ -39,5 +39,9 @@ because Git tracks files rather than empty folders.
 3. Commit only files related to that task, with a descriptive commit message.
 4. Push the branch and open a pull request for review before merging into `main`.
 
-There are no runnable pipeline steps yet. Setup and execution instructions should
-be added with the relevant implementation.
+## Available steps
+
+- [Local climate ingestion](docs/climate_ingestion.md): download the team's
+  original climate workbooks and record source metadata using Python.
+
+Azure orchestration and the remaining pipeline stages are not implemented yet.
