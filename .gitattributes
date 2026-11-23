@@ -1,0 +1,3 @@
+# Raw source snapshots retain exact bytes, including original CRLF line endings.
+# Do not report source line endings as authored whitespace defects.
+datasets/raw/** -text -whitespace
