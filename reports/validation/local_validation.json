@@ -1,6 +1,6 @@
 {
   "checked_on": "2026-11-23",
-  "automated_tests": 11,
+  "automated_tests": 19,
   "python_tests": "passed",
   "sqlite_integrity": "ok",
   "powerbi_report_schema_validation": "passed",
@@ -20,8 +20,10 @@
     "capmas_source_quality": 25
   },
   "quality_status_counts": {
-    "pass": 9,
-    "warning": 4
+    "pass": 27,
+    "warning": 11
   },
-  "spark_ci_evidence": "https://github.com/nadasami1/Depi_Final_Project/actions/runs/45189774881"
+  "spark_ci_evidence": "https://github.com/nadasami1/Depi_Final_Project/actions/runs/45189774881",
+  "synapse_loader": "dry run passed; rollback and row-count behavior tested with test double; live SQL not executed",
+  "team_quality": "25 actual CAPMAS table checks imported; GX adapter tested; no Nada suite export available"
 }

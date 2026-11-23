@@ -11,6 +11,7 @@ import pandas as pd
 
 from reshape_climate import main as prepare_climate
 from standardize_faostat import main as prepare_faostat
+from team_quality import record_team_results
 
 ROOT = Path(__file__).resolve().parents[1]
 GOLD = ROOT / "datasets/gold"
@@ -64,6 +65,8 @@ def build():
         climate = pd.read_csv(ROOT / "datasets/processed/climate/climate_2016_2020.csv")
         capmas = pd.read_csv(ROOT / "datasets/raw/capmas_team/capmas_all_tables_long.csv")
         source_qc = pd.read_csv(ROOT / "datasets/raw/capmas_team/capmas_quality_log.csv")
+        record_team_results(quality, source_qc, ROOT / "datasets/quality_inputs")
+        quality.require_valid()
         capmas["source_row_id"] = range(1, len(capmas) + 1)
         quality.check("capmas", "source_extraction_review", (capmas.qc != "ok").sum(),
                       len(capmas), "Retained as review_required; not certified observations", "warning")
@@ -198,7 +201,10 @@ def build():
         temporary.replace(db)
         provenance = {"run_id": quality.run_id, "created_at": quality.checked_at, "tables": {name: len(table) for name, table in tables.items()},
                       "inputs": {str(path.relative_to(ROOT)): hashlib.sha256(path.read_bytes()).hexdigest()
-                                 for path in sorted((ROOT / "datasets/raw").rglob("*")) if path.is_file() and path.suffix in [".csv", ".xlsx"]}}
+                                 for path in sorted(list((ROOT / "datasets/raw").rglob("*")) +
+                                                    list((ROOT / "datasets/quality_inputs").glob("*.json")) +
+                                                    [ROOT / "config/governorate_aliases.csv"])
+                                 if path.is_file() and path.suffix in [".csv", ".xlsx", ".json"]}}
         (GOLD / "build_manifest.json").write_text(json.dumps(provenance, indent=2) + "\n")
         print(json.dumps(provenance["tables"], indent=2))
     finally:

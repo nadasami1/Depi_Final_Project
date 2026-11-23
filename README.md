@@ -109,9 +109,16 @@ or Delta transaction writes.
 | aquaagri.sqlite | Queryable local warehouse with unique fact-grain indexes |
 
 `datasets/quality/data_quality_log.csv` records each run's checks and warnings.
-`sql/validation_queries.sql` contains useful local queries. Eleven tests cover units,
+`sql/validation_queries.sql` contains useful local queries. Nineteen tests cover units,
 nulls, source preservation, logging, fact integrity, measurement bases and reruns.
 GitHub Actions builds/tests the pipeline and dry-runs publication on pull requests.
+
+For the final T12/T17/T22 integration commands, see
+[execution handoff](docs/t12_t17_t22_execution.md). Each local run now imports the
+25 available CAPMAS table-check results into the same quality log. Exported
+Great Expectations results can be placed in `datasets/quality_inputs/`; none
+have been supplied by Nada yet. `src/load_synapse.py` loads existing target
+fact tables and appends quality history using the team's authenticated identity.
 
 ## Data interpretation
 
