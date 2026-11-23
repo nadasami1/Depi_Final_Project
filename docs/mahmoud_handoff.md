@@ -1,5 +1,8 @@
 # Mahmoud's local data preparation handoff
 
+> Historical October preparation handoff. For the expanded November delivery,
+> see [current task status](task_status_2026_11_23.md) and the main README.
+
 ## Ready for review
 
 - **T02:** repository folders and naming conventions, delivered in PR #1.

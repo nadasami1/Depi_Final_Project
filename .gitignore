@@ -19,3 +19,6 @@ Thumbs.db
 
 # Local inspection downloads and scratch work
 work/
+powerbi/**/.pbi/
+datasets/gold/*.tmp.sqlite
+*.pyc

@@ -1,0 +1,26 @@
+year,table,season,rows,status,issues
+2016,6,winter,25,ok,
+2016,8,summer,25,ok,
+2016,10,nile,23,review,total sum mismatch; 2 bad rows
+2016,12,fruit,25,ok,
+2016,21,all_seasons,25,ok,
+2017,6,winter,26,ok,
+2017,8,summer,26,ok,
+2017,10,nile,25,ok,
+2017,12,fruit,26,ok,
+2017,21,all_seasons,26,ok,
+2018,6,winter,24,review,got 0 grand totals; 2 bad rows
+2018,8,summer,26,ok,
+2018,10,nile,23,review,total sum mismatch; 2 bad rows
+2018,12,fruit,26,ok,
+2018,21,all_seasons,26,ok,
+2019,6,winter,26,ok,
+2019,8,summer,26,ok,
+2019,10,nile,22,review,total sum mismatch; 1 bad rows
+2019,12,fruit,26,ok,
+2019,21,all_seasons,26,review,total_aswan sum mismatch
+2020,6,winter,26,review,total sum mismatch
+2020,8,summer,26,ok,
+2020,10,nile,26,review,total sum mismatch; dup gov names
+2020,12,fruit,26,ok,
+2020,21,all_seasons,26,ok,

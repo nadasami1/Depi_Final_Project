@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-23",
+  "automated_tests": 11,
+  "python_tests": "passed",
+  "sqlite_integrity": "ok",
+  "powerbi_report_schema_validation": "passed",
+  "powerbi_desktop_refresh": "not_available_on_this_host",
+  "azure_publication": "not_executed_missing_account_identity",
+  "spark_notebooks": "validation_pending",
+  "gold_tables": {
+    "fact_water_usage": 4404,
+    "fact_water_annual": 218,
+    "fact_crop_national": 381,
+    "fact_climate_annual": 135,
+    "dim_governorate": 27,
+    "dim_crop": 29,
+    "dim_date": 5,
+    "dim_source": 3,
+    "coverage_governorate_year": 135,
+    "capmas_source_quality": 25
+  },
+  "quality_status_counts": {
+    "pass": 9,
+    "warning": 4
+  }
+}

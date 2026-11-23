@@ -1,0 +1,16 @@
+[
+  {
+    "file": "capmas_all_tables_long.csv",
+    "source_url": "https://drive.google.com/file/d/1v8IOvFO58whPj0yYQVfoS3B2fX37OclH/view",
+    "retrieved_at": "2026-11-23T13:54:14.153614+00:00",
+    "sha256": "d93c1455770b2eae217b9eee63124b05852b9114aa212d47f1850af8c0e34289",
+    "description": "Team final CAPMAS extraction; not a replacement for original bulletin PDFs"
+  },
+  {
+    "file": "capmas_quality_log.csv",
+    "source_url": "https://drive.google.com/file/d/1eaMK7r87CeLRC7SmA7k6pud-UHk_oKGe/view",
+    "retrieved_at": "2026-11-23T13:54:14.154530+00:00",
+    "sha256": "efe6906482ab5c516b0bc7a260ed8a30c917a4badc5078edc217d1a7a1039312",
+    "description": "Team final CAPMAS extraction; not a replacement for original bulletin PDFs"
+  }
+]
