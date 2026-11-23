@@ -15,5 +15,12 @@ Local facts: 4,404 detail water rows, 218 annual-basis water rows, 381 national
 crop/year rows and 135 climate rows. Eleven automated tests and report JSON/visual
 validation pass. No actual live Azure success or Desktop refresh is implied.
 
+Both notebook transformations also passed Spark smoke testing with local
+Parquet sinks on GitHub Actions:
+https://github.com/nadasami1/Depi_Final_Project/actions/runs/45189774881
+
+The smoke test verifies conversions, missing values and Gold rows/climate joins,
+but not live Azure or Delta transaction commits.
+
 The earlier October handoff describes the historical preparation stage only.
 This status and the main README describe the current implementation.

@@ -92,6 +92,10 @@ flowchart LR
 Solid paths run locally. Dashed paths need the team's existing Azure account,
 permissions and integration. No resources are provisioned.
 
+Both Spark notebooks also pass a GitHub Actions smoke test using local files
+and Parquet sinks. This verifies their transformations, not live ADLS access
+or Delta transaction writes.
+
 ## Gold outputs
 
 | Output under datasets/gold/ | Grain and contents |

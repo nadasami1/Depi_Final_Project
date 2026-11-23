@@ -6,7 +6,7 @@
   "powerbi_report_schema_validation": "passed",
   "powerbi_desktop_refresh": "not_available_on_this_host",
   "azure_publication": "not_executed_missing_account_identity",
-  "spark_notebooks": "validation_pending",
+  "spark_notebooks": "both transformations passed in GitHub Actions with local Parquet sinks; live Delta and ADLS untested",
   "gold_tables": {
     "fact_water_usage": 4404,
     "fact_water_annual": 218,
@@ -22,5 +22,6 @@
   "quality_status_counts": {
     "pass": 9,
     "warning": 4
-  }
+  },
+  "spark_ci_evidence": "https://github.com/nadasami1/Depi_Final_Project/actions/runs/45189774881"
 }
