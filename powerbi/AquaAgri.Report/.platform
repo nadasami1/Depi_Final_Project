@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "AquaAgri"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "8fec5f27-08a3-4e87-ba0d-e2de1ea56865"
+  }
+}

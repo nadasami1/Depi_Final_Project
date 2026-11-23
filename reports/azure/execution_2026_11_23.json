@@ -1,0 +1,27 @@
+{
+  "executed_at_date": "2026-11-23",
+  "integration_run_id": 199933389019983,
+  "integration_result": "SUCCESS",
+  "verification_run_id": 382625575026671,
+  "verification_result": "SUCCESS",
+  "output_prefix": "abfss://silver@aqua1storage.dfs.core.windows.net/mahmoud/runs/fe89b191c3deed062de70f94d796cf7e7ec5fbd14c33ed2ce6fbbf67239bff41",
+  "checks": {
+    "checks": "passed",
+    "original_team_log_records": 4,
+    "current_run_quality_records": 40,
+    "duplicate_quality_ids": 0,
+    "counts": {
+      "T17/faostat_crop_units": 1137,
+      "T17/faostat_irrigation_units": 7,
+      "T17/capmas_units": 7377,
+      "T17/climate_units": 135,
+      "T22_Gold_Staging/fact_water_usage": 4404,
+      "T22_Gold_Staging/fact_crop_national": 381
+    }
+  },
+  "remaining": [
+    "Gold external location permission",
+    "Synapse target and access",
+    "Observed governorate crop production is unavailable"
+  ]
+}

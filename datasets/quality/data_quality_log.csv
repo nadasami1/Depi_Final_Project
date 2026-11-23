@@ -1,0 +1,89 @@
+run_id,checked_at,dataset,check_name,severity,status,failed_count,total_count,details
+1734b480-fc97-435c-a876-37679a39e38e,2026-11-23T13:49:15.074215+00:00,capmas,source_extraction_review,warning,warning,2028,7377,Retained as review_required; not certified observations
+1734b480-fc97-435c-a876-37679a39e38e,2026-11-23T13:49:15.074215+00:00,capmas,supported_units,error,pass,0,7377,
+1734b480-fc97-435c-a876-37679a39e38e,2026-11-23T13:49:15.074215+00:00,capmas,negative_values,error,pass,0,7377,
+1734b480-fc97-435c-a876-37679a39e38e,2026-11-23T13:49:15.074215+00:00,capmas,missing_values,error,pass,0,7377,
+1734b480-fc97-435c-a876-37679a39e38e,2026-11-23T13:49:15.074215+00:00,capmas,unmapped_governorates,error,pass,0,6247,
+1734b480-fc97-435c-a876-37679a39e38e,2026-11-23T13:49:15.074215+00:00,capmas,duplicate_observation_keys,error,pass,0,6247,
+1734b480-fc97-435c-a876-37679a39e38e,2026-11-23T13:49:15.074215+00:00,climate,unique_governorate_year,error,pass,0,135,
+1734b480-fc97-435c-a876-37679a39e38e,2026-11-23T13:49:15.074215+00:00,climate,missing_numeric_values,error,pass,0,135,
+1734b480-fc97-435c-a876-37679a39e38e,2026-11-23T13:49:15.074215+00:00,fact_water_usage,climate_join_coverage,error,pass,0,4404,
+1734b480-fc97-435c-a876-37679a39e38e,2026-11-23T13:49:15.074215+00:00,fact_water_usage,production_not_available,warning,warning,4404,4404,No governorate production invented; productivity left null
+1734b480-fc97-435c-a876-37679a39e38e,2026-11-23T13:49:15.074215+00:00,faostat,missing_source_values,warning,warning,12,1137,"Missing source values retained, not replaced by zero"
+1734b480-fc97-435c-a876-37679a39e38e,2026-11-23T13:49:15.074215+00:00,faostat,duplicate_source_keys,error,pass,0,1137,
+1ca5459e-9b29-4274-a8f0-c7589bea9006,2026-11-23T13:53:30.254836+00:00,capmas,source_extraction_review,warning,warning,2028,7377,Retained as review_required; not certified observations
+1ca5459e-9b29-4274-a8f0-c7589bea9006,2026-11-23T13:53:30.254836+00:00,capmas,supported_units,error,pass,0,7377,
+1ca5459e-9b29-4274-a8f0-c7589bea9006,2026-11-23T13:53:30.254836+00:00,capmas,negative_values,error,pass,0,7377,
+1ca5459e-9b29-4274-a8f0-c7589bea9006,2026-11-23T13:53:30.254836+00:00,capmas,missing_values,error,pass,0,7377,
+1ca5459e-9b29-4274-a8f0-c7589bea9006,2026-11-23T13:53:30.254836+00:00,capmas,unmapped_governorates,error,pass,0,6247,
+1ca5459e-9b29-4274-a8f0-c7589bea9006,2026-11-23T13:53:30.254836+00:00,capmas,duplicate_observation_keys,error,pass,0,6247,
+1ca5459e-9b29-4274-a8f0-c7589bea9006,2026-11-23T13:53:30.254836+00:00,climate,unique_governorate_year,error,pass,0,135,
+1ca5459e-9b29-4274-a8f0-c7589bea9006,2026-11-23T13:53:30.254836+00:00,climate,missing_numeric_values,error,pass,0,135,
+1ca5459e-9b29-4274-a8f0-c7589bea9006,2026-11-23T13:53:30.254836+00:00,fact_water_usage,climate_join_coverage,error,pass,0,4404,
+1ca5459e-9b29-4274-a8f0-c7589bea9006,2026-11-23T13:53:30.254836+00:00,fact_water_usage,production_not_available,warning,warning,4404,4404,No governorate production invented; productivity left null
+1ca5459e-9b29-4274-a8f0-c7589bea9006,2026-11-23T13:53:30.254836+00:00,faostat,missing_source_values,warning,warning,12,1137,"Missing source values retained, not replaced by zero"
+1ca5459e-9b29-4274-a8f0-c7589bea9006,2026-11-23T13:53:30.254836+00:00,faostat,duplicate_source_keys,error,pass,0,1137,
+926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,capmas,source_extraction_review,warning,warning,2028,7377,Retained as review_required; not certified observations
+926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,capmas,supported_units,error,pass,0,7377,
+926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,capmas,negative_values,error,pass,0,7377,
+926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,capmas,missing_values,error,pass,0,7377,
+926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,capmas,unmapped_governorates,error,pass,0,6247,
+926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,capmas,duplicate_observation_keys,error,pass,0,6247,
+926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,climate,unique_governorate_year,error,pass,0,135,
+926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,climate,missing_numeric_values,error,pass,0,135,
+926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,fact_water_usage,climate_join_coverage,error,pass,0,4404,
+926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,fact_water_usage,production_not_available,warning,warning,4404,4404,No governorate production invented; productivity left null
+926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,faostat,missing_source_values,warning,warning,12,1137,"Missing source values retained, not replaced by zero"
+926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,faostat,duplicate_source_keys,error,pass,0,1137,
+926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,coverage,governorate_year_without_capmas,warning,warning,26,135,No observation is not evidence of zero irrigation
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,capmas,source_extraction_review,warning,warning,2028,7377,Retained as review_required; not certified observations
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,capmas,supported_units,error,pass,0,7377,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,capmas,negative_values,error,pass,0,7377,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,capmas,missing_values,error,pass,0,7377,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,capmas,unmapped_governorates,error,pass,0,6247,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,capmas,duplicate_observation_keys,error,pass,0,6247,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,climate,unique_governorate_year,error,pass,0,135,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,climate,missing_numeric_values,error,pass,0,135,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,fact_water_usage,climate_join_coverage,error,pass,0,4404,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,fact_water_usage,production_not_available,warning,warning,4404,4404,No governorate production invented; productivity left null
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,faostat,missing_source_values,warning,warning,12,1137,"Missing source values retained, not replaced by zero"
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,faostat,duplicate_source_keys,error,pass,0,1137,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,coverage,governorate_year_without_capmas,warning,warning,26,135,No observation is not evidence of zero irrigation
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2016_6,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2016, ""source_table"": 6, ""source_rows"": 25, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2016_8,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2016, ""source_table"": 8, ""source_rows"": 25, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2016_10,warning,warning,1,1,"{""count_unit"": ""table"", ""source_year"": 2016, ""source_table"": 10, ""source_rows"": 23, ""issues"": ""total sum mismatch; 2 bad rows""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2016_12,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2016, ""source_table"": 12, ""source_rows"": 25, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2016_21,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2016, ""source_table"": 21, ""source_rows"": 25, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2017_6,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2017, ""source_table"": 6, ""source_rows"": 26, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2017_8,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2017, ""source_table"": 8, ""source_rows"": 26, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2017_10,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2017, ""source_table"": 10, ""source_rows"": 25, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2017_12,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2017, ""source_table"": 12, ""source_rows"": 26, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2017_21,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2017, ""source_table"": 21, ""source_rows"": 26, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2018_6,warning,warning,1,1,"{""count_unit"": ""table"", ""source_year"": 2018, ""source_table"": 6, ""source_rows"": 24, ""issues"": ""got 0 grand totals; 2 bad rows""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2018_8,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2018, ""source_table"": 8, ""source_rows"": 26, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2018_10,warning,warning,1,1,"{""count_unit"": ""table"", ""source_year"": 2018, ""source_table"": 10, ""source_rows"": 23, ""issues"": ""total sum mismatch; 2 bad rows""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2018_12,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2018, ""source_table"": 12, ""source_rows"": 26, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2018_21,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2018, ""source_table"": 21, ""source_rows"": 26, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2019_6,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2019, ""source_table"": 6, ""source_rows"": 26, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2019_8,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2019, ""source_table"": 8, ""source_rows"": 26, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2019_10,warning,warning,1,1,"{""count_unit"": ""table"", ""source_year"": 2019, ""source_table"": 10, ""source_rows"": 22, ""issues"": ""total sum mismatch; 1 bad rows""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2019_12,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2019, ""source_table"": 12, ""source_rows"": 26, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2019_21,warning,warning,1,1,"{""count_unit"": ""table"", ""source_year"": 2019, ""source_table"": 21, ""source_rows"": 26, ""issues"": ""total_aswan sum mismatch""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2020_6,warning,warning,1,1,"{""count_unit"": ""table"", ""source_year"": 2020, ""source_table"": 6, ""source_rows"": 26, ""issues"": ""total sum mismatch""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2020_8,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2020, ""source_table"": 8, ""source_rows"": 26, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2020_10,warning,warning,1,1,"{""count_unit"": ""table"", ""source_year"": 2020, ""source_table"": 10, ""source_rows"": 26, ""issues"": ""total sum mismatch; dup gov names""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2020_12,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2020, ""source_table"": 12, ""source_rows"": 26, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas_team,table_2020_21,warning,pass,0,1,"{""count_unit"": ""table"", ""source_year"": 2020, ""source_table"": 21, ""source_rows"": 26, ""issues"": ""nan""}"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas,source_extraction_review,warning,warning,2028,7377,Retained as review_required; not certified observations
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas,supported_units,error,pass,0,7377,
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas,negative_values,error,pass,0,7377,
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas,missing_values,error,pass,0,7377,
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas,unmapped_governorates,error,pass,0,6247,
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,capmas,duplicate_observation_keys,error,pass,0,6247,
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,climate,unique_governorate_year,error,pass,0,135,
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,climate,missing_numeric_values,error,pass,0,135,
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,fact_water_usage,climate_join_coverage,error,pass,0,4404,
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,fact_water_usage,production_not_available,warning,warning,4404,4404,No governorate production invented; productivity left null
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,faostat,missing_source_values,warning,warning,12,1137,"Missing source values retained, not replaced by zero"
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,faostat,duplicate_source_keys,error,pass,0,1137,
+2d099fa6-4f3d-4ccc-bfb2-8c53e123978d,2026-11-23T14:32:43.498085+00:00,coverage,governorate_year_without_capmas,warning,warning,26,135,No observation is not evidence of zero irrigation

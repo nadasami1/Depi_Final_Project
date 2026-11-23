@@ -1,0 +1,27 @@
+{
+  "run_id": "2d099fa6-4f3d-4ccc-bfb2-8c53e123978d",
+  "created_at": "2026-11-23T14:32:43.498085+00:00",
+  "tables": {
+    "fact_water_usage": 4404,
+    "fact_water_annual": 218,
+    "fact_crop_national": 381,
+    "fact_climate_annual": 135,
+    "dim_governorate": 27,
+    "dim_crop": 29,
+    "dim_date": 5,
+    "dim_source": 3,
+    "coverage_governorate_year": 135,
+    "capmas_source_quality": 25
+  },
+  "inputs": {
+    "config/governorate_aliases.csv": "0dafc6127fd14869974b10fb8a62a67745ad58f559bd208e393eec74bea12c97",
+    "datasets/raw/capmas_team/capmas_all_tables_long.csv": "d93c1455770b2eae217b9eee63124b05852b9114aa212d47f1850af8c0e34289",
+    "datasets/raw/capmas_team/capmas_quality_log.csv": "efe6906482ab5c516b0bc7a260ed8a30c917a4badc5078edc217d1a7a1039312",
+    "datasets/raw/capmas_team/source_manifest.json": "a1b5c33a4de0e7a31b22e9c89bee95430293e7c4fa6e9d54b426d9d6ef62ddef",
+    "datasets/raw/faostat/faostat_crop_production_egypt_2016_2020.csv": "697238c1dea2461262b7cc15ad7bd9aee39aa3fbf16ac196d48a86ad2382ab3f",
+    "datasets/raw/faostat/faostat_irrigation.csv": "41c57287055b1182b0627812b6e2550b395070857a59f1f1a6005f3c4fc526c5",
+    "datasets/raw/world_bank/cru-x0.5_timeseries_pr_timeseries_annual_1901-2025_mean_historical_cru_ts4.10_mean.xlsx": "8c18998eebeffda162185617504a59c3b40e33d3a2adb5c1bb5013b487302926",
+    "datasets/raw/world_bank/cru-x0.5_timeseries_tas_timeseries_annual_1901-2025_mean_historical_cru_ts4.10_mean.xlsx": "4401b31908bc4b2e2dc11993f72842e5c93d9a2a1b00fa515895926be8970200",
+    "datasets/raw/world_bank/ingestion_manifest.json": "542b6cf231182433411d6c98240f6e198a3d33f322399b0172b815223d6dacca"
+  }
+}

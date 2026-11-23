@@ -1,0 +1,8 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
+  "name": "56c76a782df64b65b221",
+  "displayName": "National yield and climate context (not causal)",
+  "displayOption": "FitToPage",
+  "height": 1000,
+  "width": 1280
+}

@@ -1,0 +1,1138 @@
+Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note,standardized_unit,conversion_factor,standardized_value,value_status,geographic_level
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2016,2016,ha,32405,I,Value imputed by a receiving agency,,ha,1,32405.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2016,2016,kg/ha,887.1,E,Estimated value,,kg/ha,1,887.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2016,2016,t,28746.23,I,Value imputed by a receiving agency,,kg,1000,28746230.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2017,2017,ha,32867,I,Value imputed by a receiving agency,,ha,1,32867.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2017,2017,kg/ha,890.7,E,Estimated value,,kg/ha,1,890.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2017,2017,t,29274.85,I,Value imputed by a receiving agency,,kg,1000,29274850.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2018,2018,ha,33362,I,Value imputed by a receiving agency,,ha,1,33362.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2018,2018,kg/ha,893.1,E,Estimated value,,kg/ha,1,893.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2018,2018,t,29794.76,I,Value imputed by a receiving agency,,kg,1000,29794760.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2019,2019,ha,33707,I,Value imputed by a receiving agency,,ha,1,33707.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2019,2019,kg/ha,896.8,E,Estimated value,,kg/ha,1,896.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2019,2019,t,30229.16,I,Value imputed by a receiving agency,,kg,1000,30229160.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2020,2020,ha,34050,I,Value imputed by a receiving agency,,ha,1,34050.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2020,2020,kg/ha,899.3,E,Estimated value,,kg/ha,1,899.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2020,2020,t,30622.68,I,Value imputed by a receiving agency,,kg,1000,30622680.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01341,Apples,2016,2016,ha,29353,A,Official value,,ha,1,29353.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01341,Apples,2016,2016,kg/ha,25716.2,A,Official value,,kg/ha,1,25716.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01341,Apples,2016,2016,t,754846,A,Official value,,kg,1000,754846000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01341,Apples,2017,2017,ha,28884,A,Official value,,ha,1,28884.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01341,Apples,2017,2017,kg/ha,24798.5,A,Official value,,kg/ha,1,24798.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01341,Apples,2017,2017,t,716271,A,Official value,,kg,1000,716271000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01341,Apples,2018,2018,ha,28799,A,Official value,,ha,1,28799.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01341,Apples,2018,2018,kg/ha,24867.1,A,Official value,,kg/ha,1,24867.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01341,Apples,2018,2018,t,716148,A,Official value,,kg,1000,716148000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01341,Apples,2019,2019,ha,28057,A,Official value,,ha,1,28057.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01341,Apples,2019,2019,kg/ha,25000,A,Official value,,kg/ha,1,25000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01341,Apples,2019,2019,t,701435,A,Official value,,kg,1000,701435000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01341,Apples,2020,2020,ha,32450,A,Official value,,ha,1,32450.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01341,Apples,2020,2020,kg/ha,23149.5,A,Official value,,kg/ha,1,23149.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01341,Apples,2020,2020,t,751200,A,Official value,,kg,1000,751200000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01343,Apricots,2016,2016,ha,5757,A,Official value,,ha,1,5757.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01343,Apricots,2016,2016,kg/ha,15596.6,A,Official value,,kg/ha,1,15596.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01343,Apricots,2016,2016,t,89792,A,Official value,,kg,1000,89792000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01343,Apricots,2017,2017,ha,6097,A,Official value,,ha,1,6097.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01343,Apricots,2017,2017,kg/ha,15804.9,A,Official value,,kg/ha,1,15804.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01343,Apricots,2017,2017,t,96357,A,Official value,,kg,1000,96357000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01343,Apricots,2018,2018,ha,5701,A,Official value,,ha,1,5701.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01343,Apricots,2018,2018,kg/ha,16523.9,A,Official value,,kg/ha,1,16523.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01343,Apricots,2018,2018,t,94203,A,Official value,,kg,1000,94203000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01343,Apricots,2019,2019,ha,4509,A,Official value,,ha,1,4509.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01343,Apricots,2019,2019,kg/ha,17000,A,Official value,,kg/ha,1,17000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01343,Apricots,2019,2019,t,76650,A,Official value,,kg,1000,76650000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01343,Apricots,2020,2020,ha,3850,A,Official value,,ha,1,3850.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01343,Apricots,2020,2020,kg/ha,17215.6,A,Official value,,kg/ha,1,17215.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01343,Apricots,2020,2020,t,66280,A,Official value,,kg,1000,66280000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01216,Artichokes,2016,2016,ha,9053,A,Official value,,ha,1,9053.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01216,Artichokes,2016,2016,kg/ha,19143.6,A,Official value,,kg/ha,1,19143.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01216,Artichokes,2016,2016,t,173306,A,Official value,,kg,1000,173306000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01216,Artichokes,2017,2017,ha,17236,A,Official value,,ha,1,17236.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01216,Artichokes,2017,2017,kg/ha,19679.4,A,Official value,,kg/ha,1,19679.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01216,Artichokes,2017,2017,t,339197,A,Official value,,kg,1000,339197000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01216,Artichokes,2018,2018,ha,15420,A,Official value,,ha,1,15420.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01216,Artichokes,2018,2018,kg/ha,18541.7,A,Official value,,kg/ha,1,18541.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01216,Artichokes,2018,2018,t,285913,A,Official value,,kg,1000,285913000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01216,Artichokes,2019,2019,ha,16163,A,Official value,,ha,1,16163.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01216,Artichokes,2019,2019,kg/ha,19000,A,Official value,,kg/ha,1,19000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01216,Artichokes,2019,2019,t,307100,A,Official value,,kg,1000,307100000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01216,Artichokes,2020,2020,ha,16550,A,Official value,,ha,1,16550.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01216,Artichokes,2020,2020,kg/ha,18791.5,A,Official value,,kg/ha,1,18791.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01216,Artichokes,2020,2020,t,311000,A,Official value,,kg,1000,311000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01311,Avocados,2020,2020,ha,,M,Missing value; data cannot exist,,ha,1,,missing,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01311,Avocados,2020,2020,t,,M,Missing value; data cannot exist,,kg,1000,,missing,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01312,Bananas,2016,2016,ha,28051,A,Official value,,ha,1,28051.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01312,Bananas,2016,2016,kg/ha,43280.7,A,Official value,,kg/ha,1,43280.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01312,Bananas,2016,2016,t,1214077,A,Official value,,kg,1000,1214077000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01312,Bananas,2017,2017,ha,30271,A,Official value,,ha,1,30271.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01312,Bananas,2017,2017,kg/ha,45111.6,A,Official value,,kg/ha,1,45111.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01312,Bananas,2017,2017,t,1365554,A,Official value,,kg,1000,1365554000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01312,Bananas,2018,2018,ha,29315,A,Official value,,ha,1,29315.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01312,Bananas,2018,2018,kg/ha,44100.7,A,Official value,,kg/ha,1,44100.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01312,Bananas,2018,2018,t,1292812,A,Official value,,kg,1000,1292812000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01312,Bananas,2019,2019,ha,30234,A,Official value,,ha,1,30234.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01312,Bananas,2019,2019,kg/ha,44000,A,Official value,,kg/ha,1,44000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01312,Bananas,2019,2019,t,1330280,A,Official value,,kg,1000,1330280000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01312,Bananas,2020,2020,ha,31139,A,Official value,,ha,1,31139.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01312,Bananas,2020,2020,kg/ha,43257.7,A,Official value,,kg/ha,1,43257.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01312,Bananas,2020,2020,t,1347000,A,Official value,,kg,1000,1347000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0115,Barley,2016,2016,ha,25147,A,Official value,,ha,1,25147.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0115,Barley,2016,2016,kg/ha,3966.8,A,Official value,,kg/ha,1,3966.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0115,Barley,2016,2016,t,99751,A,Official value,,kg,1000,99751000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0115,Barley,2017,2017,ha,24292,A,Official value,,ha,1,24292.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0115,Barley,2017,2017,kg/ha,4020.6,A,Official value,,kg/ha,1,4020.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0115,Barley,2017,2017,t,97666,A,Official value,,kg,1000,97666000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0115,Barley,2018,2018,ha,22519,A,Official value,,ha,1,22519.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0115,Barley,2018,2018,kg/ha,3659.4,A,Official value,,kg/ha,1,3659.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0115,Barley,2018,2018,t,82406,A,Official value,,kg,1000,82406000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0115,Barley,2019,2019,ha,28600,A,Official value,,ha,1,28600.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0115,Barley,2019,2019,kg/ha,3740.6,A,Official value,,kg/ha,1,3740.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0115,Barley,2019,2019,t,106981,A,Official value,,kg,1000,106981000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0115,Barley,2020,2020,ha,28871,A,Official value,,ha,1,28871.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0115,Barley,2020,2020,kg/ha,3776.8,A,Official value,,kg/ha,1,3776.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0115,Barley,2020,2020,t,109041,A,Official value,,kg,1000,109041000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01701,"Beans, dry",2016,2016,ha,34225,A,Official value,,ha,1,34225.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01701,"Beans, dry",2016,2016,kg/ha,2380,A,Official value,,kg/ha,1,2380.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01701,"Beans, dry",2016,2016,t,81456,A,Official value,,kg,1000,81456000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01701,"Beans, dry",2017,2017,ha,57359,A,Official value,,ha,1,57359.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01701,"Beans, dry",2017,2017,kg/ha,2543.1,A,Official value,,kg/ha,1,2543.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01701,"Beans, dry",2017,2017,t,145873,A,Official value,,kg,1000,145873000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01701,"Beans, dry",2018,2018,ha,20278,A,Official value,,ha,1,20278.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01701,"Beans, dry",2018,2018,kg/ha,6059.3,A,Official value,,kg/ha,1,6059.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01701,"Beans, dry",2018,2018,t,122870,A,Official value,,kg,1000,122870000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01701,"Beans, dry",2019,2019,ha,29334,A,Official value,,ha,1,29334.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01701,"Beans, dry",2019,2019,kg/ha,4966.6,A,Official value,,kg/ha,1,4966.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01701,"Beans, dry",2019,2019,t,145690,A,Official value,,kg,1000,145690000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01701,"Beans, dry",2020,2020,ha,37455,A,Official value,,ha,1,37455.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01701,"Beans, dry",2020,2020,kg/ha,3342.7,A,Official value,,kg/ha,1,3342.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01701,"Beans, dry",2020,2020,t,125200,A,Official value,,kg,1000,125200000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01702,"Broad beans and horse beans, dry",2016,2016,ha,35024,A,Official value,,ha,1,35024.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01702,"Broad beans and horse beans, dry",2016,2016,kg/ha,3399.3,A,Official value,,kg/ha,1,3399.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01702,"Broad beans and horse beans, dry",2016,2016,t,119056,A,Official value,,kg,1000,119056000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01702,"Broad beans and horse beans, dry",2017,2017,ha,50855,A,Official value,,ha,1,50855.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01702,"Broad beans and horse beans, dry",2017,2017,kg/ha,3351.8,A,Official value,,kg/ha,1,3351.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01702,"Broad beans and horse beans, dry",2017,2017,t,170456,A,Official value,,kg,1000,170456000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01702,"Broad beans and horse beans, dry",2018,2018,ha,34530,A,Official value,,ha,1,34530.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01702,"Broad beans and horse beans, dry",2018,2018,kg/ha,3372,A,Official value,,kg/ha,1,3372.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01702,"Broad beans and horse beans, dry",2018,2018,t,116435,A,Official value,,kg,1000,116435000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01702,"Broad beans and horse beans, dry",2019,2019,ha,25150,A,Official value,,ha,1,25150.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01702,"Broad beans and horse beans, dry",2019,2019,kg/ha,3990.1,A,Official value,,kg/ha,1,3990.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01702,"Broad beans and horse beans, dry",2019,2019,t,100350,A,Official value,,kg,1000,100350000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01702,"Broad beans and horse beans, dry",2020,2020,ha,25750,A,Official value,,ha,1,25750.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01702,"Broad beans and horse beans, dry",2020,2020,kg/ha,4859.1,A,Official value,,kg/ha,1,4859.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01702,"Broad beans and horse beans, dry",2020,2020,t,125123,A,Official value,,kg,1000,125123000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01243,"Broad beans and horse beans, green",2016,2016,ha,21397,A,Official value,,ha,1,21397.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01243,"Broad beans and horse beans, green",2016,2016,kg/ha,9033.6,A,Official value,,kg/ha,1,9033.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01243,"Broad beans and horse beans, green",2016,2016,t,193291,A,Official value,,kg,1000,193291000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01243,"Broad beans and horse beans, green",2017,2017,ha,17685,A,Official value,,ha,1,17685.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01243,"Broad beans and horse beans, green",2017,2017,kg/ha,9946.2,A,Official value,,kg/ha,1,9946.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01243,"Broad beans and horse beans, green",2017,2017,t,175898,A,Official value,,kg,1000,175898000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01243,"Broad beans and horse beans, green",2018,2018,ha,17399,A,Official value,,ha,1,17399.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01243,"Broad beans and horse beans, green",2018,2018,kg/ha,9652.6,A,Official value,,kg/ha,1,9652.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01243,"Broad beans and horse beans, green",2018,2018,t,167945,A,Official value,,kg,1000,167945000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01243,"Broad beans and horse beans, green",2019,2019,ha,18174,A,Official value,,ha,1,18174.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01243,"Broad beans and horse beans, green",2019,2019,kg/ha,9740.8,A,Official value,,kg/ha,1,9740.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01243,"Broad beans and horse beans, green",2019,2019,t,177029,A,Official value,,kg,1000,177029000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01243,"Broad beans and horse beans, green",2020,2020,ha,18704,A,Official value,,ha,1,18704.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01243,"Broad beans and horse beans, green",2020,2020,kg/ha,9329.3,A,Official value,,kg/ha,1,9329.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01243,"Broad beans and horse beans, green",2020,2020,t,174496,A,Official value,,kg,1000,174496000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01212,Cabbages,2016,2016,ha,17226,A,Official value,,ha,1,17226.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01212,Cabbages,2016,2016,kg/ha,30099.3,A,Official value,,kg/ha,1,30099.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01212,Cabbages,2016,2016,t,518504,A,Official value,,kg,1000,518504000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01212,Cabbages,2017,2017,ha,16341,A,Official value,,ha,1,16341.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01212,Cabbages,2017,2017,kg/ha,29724.8,A,Official value,,kg/ha,1,29724.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01212,Cabbages,2017,2017,t,485739,A,Official value,,kg,1000,485739000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01212,Cabbages,2018,2018,ha,15116,A,Official value,,ha,1,15116.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01212,Cabbages,2018,2018,kg/ha,29876.8,A,Official value,,kg/ha,1,29876.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01212,Cabbages,2018,2018,t,451618,A,Official value,,kg,1000,451618000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01212,Cabbages,2019,2019,ha,17884,A,Official value,,ha,1,17884.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01212,Cabbages,2019,2019,kg/ha,29877,A,Official value,,kg/ha,1,29877.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01212,Cabbages,2019,2019,t,534320,A,Official value,,kg,1000,534320000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01212,Cabbages,2020,2020,ha,16580,A,Official value,,ha,1,16580.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01212,Cabbages,2020,2020,kg/ha,28543.4,A,Official value,,kg/ha,1,28543.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01212,Cabbages,2020,2020,t,473250,A,Official value,,kg,1000,473250000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01229,Cantaloupes and other melons,2016,2016,ha,40774,A,Official value,,ha,1,40774.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01229,Cantaloupes and other melons,2016,2016,kg/ha,26163.9,A,Official value,,kg/ha,1,26163.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01229,Cantaloupes and other melons,2016,2016,t,1066817,A,Official value,,kg,1000,1066817000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01229,Cantaloupes and other melons,2017,2017,ha,24111,A,Official value,,ha,1,24111.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01229,Cantaloupes and other melons,2017,2017,kg/ha,26634.7,A,Official value,,kg/ha,1,26634.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01229,Cantaloupes and other melons,2017,2017,t,642199,A,Official value,,kg,1000,642199000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01229,Cantaloupes and other melons,2018,2018,ha,25621,A,Official value,,ha,1,25621.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01229,Cantaloupes and other melons,2018,2018,kg/ha,26554.6,A,Official value,,kg/ha,1,26554.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01229,Cantaloupes and other melons,2018,2018,t,680355,A,Official value,,kg,1000,680355000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01229,Cantaloupes and other melons,2019,2019,ha,4459,A,Official value,,ha,1,4459.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01229,Cantaloupes and other melons,2019,2019,kg/ha,27000,A,Official value,,kg/ha,1,27000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01229,Cantaloupes and other melons,2019,2019,t,120400,A,Official value,,kg,1000,120400000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01229,Cantaloupes and other melons,2020,2020,ha,4950,A,Official value,,ha,1,4950.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01229,Cantaloupes and other melons,2020,2020,kg/ha,27313.1,A,Official value,,kg/ha,1,27313.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01229,Cantaloupes and other melons,2020,2020,t,135200,A,Official value,,kg,1000,135200000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01251,Carrots and turnips,2016,2016,ha,8595,A,Official value,,ha,1,8595.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01251,Carrots and turnips,2016,2016,kg/ha,29365,A,Official value,,kg/ha,1,29365.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01251,Carrots and turnips,2016,2016,t,252379,A,Official value,,kg,1000,252379000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01251,Carrots and turnips,2017,2017,ha,9946,A,Official value,,ha,1,9946.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01251,Carrots and turnips,2017,2017,kg/ha,29613.6,A,Official value,,kg/ha,1,29613.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01251,Carrots and turnips,2017,2017,t,294531,A,Official value,,kg,1000,294531000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01251,Carrots and turnips,2018,2018,ha,7545,A,Official value,,ha,1,7545.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01251,Carrots and turnips,2018,2018,kg/ha,32114.5,A,Official value,,kg/ha,1,32114.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01251,Carrots and turnips,2018,2018,t,242304,A,Official value,,kg,1000,242304000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01251,Carrots and turnips,2019,2019,ha,5926,A,Official value,,ha,1,5926.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01251,Carrots and turnips,2019,2019,kg/ha,32000,A,Official value,,kg/ha,1,32000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01251,Carrots and turnips,2019,2019,t,189640,A,Official value,,kg,1000,189640000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01251,Carrots and turnips,2020,2020,ha,7060,A,Official value,,ha,1,7060.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01251,Carrots and turnips,2020,2020,kg/ha,27705.4,A,Official value,,kg/ha,1,27705.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01251,Carrots and turnips,2020,2020,t,195600,A,Official value,,kg,1000,195600000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01213,Cauliflowers and broccoli,2016,2016,ha,3672,A,Official value,,ha,1,3672.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01213,Cauliflowers and broccoli,2016,2016,kg/ha,28165.4,A,Official value,,kg/ha,1,28165.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01213,Cauliflowers and broccoli,2016,2016,t,103431,A,Official value,,kg,1000,103431000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01213,Cauliflowers and broccoli,2017,2017,ha,3857,A,Official value,,ha,1,3857.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01213,Cauliflowers and broccoli,2017,2017,kg/ha,28199.1,A,Official value,,kg/ha,1,28199.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01213,Cauliflowers and broccoli,2017,2017,t,108756,A,Official value,,kg,1000,108756000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01213,Cauliflowers and broccoli,2018,2018,ha,3616,A,Official value,,ha,1,3616.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01213,Cauliflowers and broccoli,2018,2018,kg/ha,27814.2,A,Official value,,kg/ha,1,27814.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01213,Cauliflowers and broccoli,2018,2018,t,100576,A,Official value,,kg,1000,100576000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01213,Cauliflowers and broccoli,2019,2019,ha,3798,A,Official value,,ha,1,3798.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01213,Cauliflowers and broccoli,2019,2019,kg/ha,27817.3,A,Official value,,kg/ha,1,27817.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01213,Cauliflowers and broccoli,2019,2019,t,105650,A,Official value,,kg,1000,105650000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01213,Cauliflowers and broccoli,2020,2020,ha,3980,A,Official value,,ha,1,3980.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01213,Cauliflowers and broccoli,2020,2020,kg/ha,28894.5,A,Official value,,kg/ha,1,28894.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01213,Cauliflowers and broccoli,2020,2020,t,115000,A,Official value,,kg,1000,115000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01703,"Chick peas, dry",2016,2016,ha,1343,A,Official value,,ha,1,1343.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01703,"Chick peas, dry",2016,2016,kg/ha,2190.9,A,Official value,,kg/ha,1,2190.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01703,"Chick peas, dry",2016,2016,t,2943,A,Official value,,kg,1000,2943000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01703,"Chick peas, dry",2017,2017,ha,1900,A,Official value,,ha,1,1900.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01703,"Chick peas, dry",2017,2017,kg/ha,2178.9,A,Official value,,kg/ha,1,2178.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01703,"Chick peas, dry",2017,2017,t,4140,A,Official value,,kg,1000,4140000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01703,"Chick peas, dry",2018,2018,ha,2487,A,Official value,,ha,1,2487.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01703,"Chick peas, dry",2018,2018,kg/ha,2621.6,A,Official value,,kg/ha,1,2621.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01703,"Chick peas, dry",2018,2018,t,6520,A,Official value,,kg,1000,6520000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01703,"Chick peas, dry",2019,2019,ha,2165,A,Official value,,ha,1,2165.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01703,"Chick peas, dry",2019,2019,kg/ha,2291,A,Official value,,kg/ha,1,2291.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01703,"Chick peas, dry",2019,2019,t,4960,A,Official value,,kg,1000,4960000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01703,"Chick peas, dry",2020,2020,ha,1650,A,Official value,,ha,1,1650.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01703,"Chick peas, dry",2020,2020,kg/ha,3595.2,A,Official value,,kg/ha,1,3595.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01703,"Chick peas, dry",2020,2020,t,5932,A,Official value,,kg,1000,5932000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2016,2016,ha,16635,E,Estimated value,,ha,1,16635.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2016,2016,kg/ha,3615.7,E,Estimated value,,kg/ha,1,3615.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2016,2016,t,60148.03,I,Value imputed by a receiving agency,,kg,1000,60148030.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2017,2017,ha,16667,I,Value imputed by a receiving agency,,ha,1,16667.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2017,2017,kg/ha,3661.2,E,Estimated value,,kg/ha,1,3661.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2017,2017,t,61020.9,I,Value imputed by a receiving agency,,kg,1000,61020900.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2018,2018,ha,16754,I,Value imputed by a receiving agency,,ha,1,16754.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2018,2018,kg/ha,3687.7,E,Estimated value,,kg/ha,1,3687.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2018,2018,t,61783.71,I,Value imputed by a receiving agency,,kg,1000,61783710.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2019,2019,ha,16744,I,Value imputed by a receiving agency,,ha,1,16744.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2019,2019,kg/ha,3706.3,E,Estimated value,,kg/ha,1,3706.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2019,2019,t,62060.38,I,Value imputed by a receiving agency,,kg,1000,62060380.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2020,2020,ha,16774,I,Value imputed by a receiving agency,,ha,1,16774.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2020,2020,kg/ha,3720.3,E,Estimated value,,kg/ha,1,3720.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2020,2020,t,62406.29,I,Value imputed by a receiving agency,,kg,1000,62406290.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2016,2016,ha,40850,A,Official value,,ha,1,40850.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2016,2016,kg/ha,15037.3,A,Official value,,kg/ha,1,15037.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2016,2016,t,614273,A,Official value,,kg,1000,614273000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2017,2017,ha,38588,A,Official value,,ha,1,38588.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2017,2017,kg/ha,17529.2,A,Official value,,kg/ha,1,17529.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2017,2017,t,676422,A,Official value,,kg,1000,676422000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2018,2018,ha,37591,A,Official value,,ha,1,37591.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2018,2018,kg/ha,19492.7,A,Official value,,kg/ha,1,19492.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2018,2018,t,732749,A,Official value,,kg,1000,732749000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2019,2019,ha,50329,A,Official value,,ha,1,50329.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2019,2019,kg/ha,19000,A,Official value,,kg/ha,1,19000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2019,2019,t,956250,A,Official value,,kg,1000,956250000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2020,2020,ha,47239,A,Official value,,ha,1,47239.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2020,2020,kg/ha,18353.5,A,Official value,,kg/ha,1,18353.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2020,2020,t,867000,A,Official value,,kg,1000,867000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01706,"Cow peas, dry",2016,2016,ha,2035,I,Value imputed by a receiving agency,,ha,1,2035.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01706,"Cow peas, dry",2016,2016,kg/ha,3528.8,E,Estimated value,,kg/ha,1,3528.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01706,"Cow peas, dry",2016,2016,t,7181.58,I,Value imputed by a receiving agency,,kg,1000,7181580.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01706,"Cow peas, dry",2017,2017,ha,2018,I,Value imputed by a receiving agency,,ha,1,2018.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01706,"Cow peas, dry",2017,2017,kg/ha,3568,E,Estimated value,,kg/ha,1,3568.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01706,"Cow peas, dry",2017,2017,t,7199.42,I,Value imputed by a receiving agency,,kg,1000,7199420.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01706,"Cow peas, dry",2018,2018,ha,2004,I,Value imputed by a receiving agency,,ha,1,2004.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01706,"Cow peas, dry",2018,2018,kg/ha,3604.9,E,Estimated value,,kg/ha,1,3604.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01706,"Cow peas, dry",2018,2018,t,7225.12,I,Value imputed by a receiving agency,,kg,1000,7225120.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01706,"Cow peas, dry",2019,2019,ha,1989,I,Value imputed by a receiving agency,,ha,1,1989.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01706,"Cow peas, dry",2019,2019,kg/ha,3638.4,E,Estimated value,,kg/ha,1,3638.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01706,"Cow peas, dry",2019,2019,t,7236.11,I,Value imputed by a receiving agency,,kg,1000,7236110.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01706,"Cow peas, dry",2020,2020,ha,1973,I,Value imputed by a receiving agency,,ha,1,1973.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01706,"Cow peas, dry",2020,2020,kg/ha,3668.5,E,Estimated value,,kg/ha,1,3668.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01706,"Cow peas, dry",2020,2020,t,7239.57,I,Value imputed by a receiving agency,,kg,1000,7239570.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01232,Cucumbers and gherkins,2016,2016,ha,21885,A,Official value,,ha,1,21885.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01232,Cucumbers and gherkins,2016,2016,kg/ha,22114,A,Official value,,kg/ha,1,22114.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01232,Cucumbers and gherkins,2016,2016,t,483971,A,Official value,,kg,1000,483971000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01232,Cucumbers and gherkins,2017,2017,ha,18383,A,Official value,,ha,1,18383.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01232,Cucumbers and gherkins,2017,2017,kg/ha,21402.2,A,Official value,,kg/ha,1,21402.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01232,Cucumbers and gherkins,2017,2017,t,393432,A,Official value,,kg,1000,393432000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01232,Cucumbers and gherkins,2018,2018,ha,16486,A,Official value,,ha,1,16486.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01232,Cucumbers and gherkins,2018,2018,kg/ha,22240.7,A,Official value,,kg/ha,1,22240.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01232,Cucumbers and gherkins,2018,2018,t,366661,A,Official value,,kg,1000,366661000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01232,Cucumbers and gherkins,2019,2019,ha,25734,A,Official value,,ha,1,25734.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01232,Cucumbers and gherkins,2019,2019,kg/ha,22000,A,Official value,,kg/ha,1,22000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01232,Cucumbers and gherkins,2019,2019,t,566155,A,Official value,,kg,1000,566155000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01232,Cucumbers and gherkins,2020,2020,ha,20750,A,Official value,,ha,1,20750.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01232,Cucumbers and gherkins,2020,2020,kg/ha,21373.5,A,Official value,,kg/ha,1,21373.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01232,Cucumbers and gherkins,2020,2020,t,443500,A,Official value,,kg,1000,443500000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01314,Dates,2016,2016,ha,49765,A,Official value,,ha,1,49765.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01314,Dates,2016,2016,kg/ha,31131.7,A,Official value,,kg/ha,1,31131.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01314,Dates,2016,2016,t,1549260,A,Official value,,kg,1000,1549260000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01314,Dates,2017,2017,ha,50293,A,Official value,,ha,1,50293.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01314,Dates,2017,2017,kg/ha,30662.4,A,Official value,,kg/ha,1,30662.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01314,Dates,2017,2017,t,1542111,A,Official value,,kg,1000,1542111000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01314,Dates,2018,2018,ha,47571,A,Official value,,ha,1,47571.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01314,Dates,2018,2018,kg/ha,32870.6,A,Official value,,kg/ha,1,32870.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01314,Dates,2018,2018,t,1563687,A,Official value,,kg,1000,1563687000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01314,Dates,2019,2019,ha,49825,A,Official value,,ha,1,49825.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01314,Dates,2019,2019,kg/ha,33000,A,Official value,,kg/ha,1,33000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01314,Dates,2019,2019,t,1644210,A,Official value,,kg,1000,1644210000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01314,Dates,2020,2020,ha,50550,A,Official value,,ha,1,50550.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01314,Dates,2020,2020,kg/ha,33851.6,A,Official value,,kg/ha,1,33851.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01314,Dates,2020,2020,t,1711200,A,Official value,,kg,1000,1711200000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2016,2016,ha,1073,I,Value imputed by a receiving agency,,ha,1,1073.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2016,2016,kg/ha,4661.4,E,Estimated value,,kg/ha,1,4661.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2016,2016,t,5003.12,I,Value imputed by a receiving agency,,kg,1000,5003120.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2017,2017,ha,1096,I,Value imputed by a receiving agency,,ha,1,1096.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2017,2017,kg/ha,4612.8,E,Estimated value,,kg/ha,1,4612.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2017,2017,t,5053.95,I,Value imputed by a receiving agency,,kg,1000,5053950.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2018,2018,ha,1115,I,Value imputed by a receiving agency,,ha,1,1115.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2018,2018,kg/ha,4576,E,Estimated value,,kg/ha,1,4576.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2018,2018,t,5100.88,I,Value imputed by a receiving agency,,kg,1000,5100880.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2019,2019,ha,1135,I,Value imputed by a receiving agency,,ha,1,1135.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2019,2019,kg/ha,4536.7,E,Estimated value,,kg/ha,1,4536.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2019,2019,t,5150.95,I,Value imputed by a receiving agency,,kg,1000,5150950.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2020,2020,ha,1115,E,Estimated value,,ha,1,1115.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2020,2020,kg/ha,4672.2,E,Estimated value,,kg/ha,1,4672.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",2020,2020,t,5210.65,I,Value imputed by a receiving agency,,kg,1000,5210650.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01233,Eggplants (aubergines),2016,2016,ha,48411,A,Official value,,ha,1,48411.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01233,Eggplants (aubergines),2016,2016,kg/ha,26859.2,A,Official value,,kg/ha,1,26859.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01233,Eggplants (aubergines),2016,2016,t,1300265,A,Official value,,kg,1000,1300265000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01233,Eggplants (aubergines),2017,2017,ha,47522,A,Official value,,ha,1,47522.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01233,Eggplants (aubergines),2017,2017,kg/ha,28961.5,A,Official value,,kg/ha,1,28961.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01233,Eggplants (aubergines),2017,2017,t,1376303,A,Official value,,kg,1000,1376303000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01233,Eggplants (aubergines),2018,2018,ha,43757,A,Official value,,ha,1,43757.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01233,Eggplants (aubergines),2018,2018,kg/ha,26948.2,A,Official value,,kg/ha,1,26948.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01233,Eggplants (aubergines),2018,2018,t,1179173,A,Official value,,kg,1000,1179173000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01233,Eggplants (aubergines),2019,2019,ha,49897,A,Official value,,ha,1,49897.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01233,Eggplants (aubergines),2019,2019,kg/ha,27000,A,Official value,,kg/ha,1,27000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01233,Eggplants (aubergines),2019,2019,t,1347230,A,Official value,,kg,1000,1347230000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01233,Eggplants (aubergines),2020,2020,ha,46890,A,Official value,,ha,1,46890.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01233,Eggplants (aubergines),2020,2020,kg/ha,27262.7,A,Official value,,kg/ha,1,27262.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01233,Eggplants (aubergines),2020,2020,t,1278350,A,Official value,,kg,1000,1278350000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01315,Figs,2016,2016,ha,27779,A,Official value,,ha,1,27779.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01315,Figs,2016,2016,kg/ha,6616.3,A,Official value,,kg/ha,1,6616.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01315,Figs,2016,2016,t,183794,A,Official value,,kg,1000,183794000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01315,Figs,2017,2017,ha,27820,A,Official value,,ha,1,27820.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01315,Figs,2017,2017,kg/ha,6980.6,A,Official value,,kg/ha,1,6980.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01315,Figs,2017,2017,t,194202,A,Official value,,kg,1000,194202000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01315,Figs,2018,2018,ha,29029,A,Official value,,ha,1,29029.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01315,Figs,2018,2018,kg/ha,7625.8,A,Official value,,kg/ha,1,7625.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01315,Figs,2018,2018,t,221369,A,Official value,,kg,1000,221369000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01315,Figs,2019,2019,ha,26931,A,Official value,,ha,1,26931.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01315,Figs,2019,2019,kg/ha,8000,A,Official value,,kg/ha,1,8000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01315,Figs,2019,2019,t,215450,A,Official value,,kg,1000,215450000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01315,Figs,2020,2020,ha,35750,A,Official value,,ha,1,35750.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01315,Figs,2020,2020,kg/ha,8376.2,A,Official value,,kg/ha,1,8376.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01315,Figs,2020,2020,t,299450,A,Official value,,kg,1000,299450000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01929.01,"Flax, raw or retted",2016,2016,ha,8941,I,Value imputed by a receiving agency,,ha,1,8941.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01929.01,"Flax, raw or retted",2016,2016,kg/ha,874.4,E,Estimated value,,kg/ha,1,874.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01929.01,"Flax, raw or retted",2016,2016,t,7818.28,I,Value imputed by a receiving agency,,kg,1000,7818280.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01929.01,"Flax, raw or retted",2017,2017,ha,8726,I,Value imputed by a receiving agency,,ha,1,8726.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01929.01,"Flax, raw or retted",2017,2017,kg/ha,872.9,E,Estimated value,,kg/ha,1,872.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01929.01,"Flax, raw or retted",2017,2017,t,7616.9,I,Value imputed by a receiving agency,,kg,1000,7616900.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01929.01,"Flax, raw or retted",2018,2018,ha,8393,I,Value imputed by a receiving agency,,ha,1,8393.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01929.01,"Flax, raw or retted",2018,2018,kg/ha,928.6,E,Estimated value,,kg/ha,1,928.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01929.01,"Flax, raw or retted",2018,2018,t,7792.97,E,Estimated value,,kg,1000,7792970.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01929.01,"Flax, raw or retted",2019,2019,ha,8687,E,Estimated value,,ha,1,8687.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01929.01,"Flax, raw or retted",2019,2019,kg/ha,891.3,E,Estimated value,,kg/ha,1,891.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01929.01,"Flax, raw or retted",2019,2019,t,7742.72,E,Estimated value,,kg,1000,7742720.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01929.01,"Flax, raw or retted",2020,2020,ha,8602,E,Estimated value,,ha,1,8602.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01929.01,"Flax, raw or retted",2020,2020,kg/ha,897.2,E,Estimated value,,kg/ha,1,897.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01929.01,"Flax, raw or retted",2020,2020,t,7717.53,E,Estimated value,,kg,1000,7717530.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01330,Grapes,2016,2016,ha,77418,A,Official value,,ha,1,77418.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01330,Grapes,2016,2016,kg/ha,21845.1,A,Official value,,kg/ha,1,21845.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01330,Grapes,2016,2016,t,1691194,A,Official value,,kg,1000,1691194000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01330,Grapes,2017,2017,ha,78217,A,Official value,,ha,1,78217.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01330,Grapes,2017,2017,kg/ha,22174.5,A,Official value,,kg/ha,1,22174.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01330,Grapes,2017,2017,t,1734424,A,Official value,,kg,1000,1734424000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01330,Grapes,2018,2018,ha,74529,A,Official value,,ha,1,74529.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01330,Grapes,2018,2018,kg/ha,22019.3,A,Official value,,kg/ha,1,22019.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01330,Grapes,2018,2018,t,1641075,A,Official value,,kg,1000,1641075000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01330,Grapes,2019,2019,ha,72517,A,Official value,,ha,1,72517.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01330,Grapes,2019,2019,kg/ha,22000,A,Official value,,kg/ha,1,22000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01330,Grapes,2019,2019,t,1595380,A,Official value,,kg,1000,1595380000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01330,Grapes,2020,2020,ha,78722,A,Official value,,ha,1,78722.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01330,Grapes,2020,2020,kg/ha,15040.3,A,Official value,,kg/ha,1,15040.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01330,Grapes,2020,2020,t,1184000,A,Official value,,kg,1000,1184000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01252,Green garlic,2016,2016,ha,12875,A,Official value,,ha,1,12875.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01252,Green garlic,2016,2016,kg/ha,21186.3,A,Official value,,kg/ha,1,21186.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01252,Green garlic,2016,2016,t,272769,A,Official value,,kg,1000,272769000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01252,Green garlic,2017,2017,ha,13022,A,Official value,,ha,1,13022.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01252,Green garlic,2017,2017,kg/ha,22251.6,A,Official value,,kg/ha,1,22251.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01252,Green garlic,2017,2017,t,289766,A,Official value,,kg,1000,289766000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01252,Green garlic,2018,2018,ha,17004,A,Official value,,ha,1,17004.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01252,Green garlic,2018,2018,kg/ha,20506.9,A,Official value,,kg/ha,1,20506.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01252,Green garlic,2018,2018,t,348700,A,Official value,,kg,1000,348700000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01252,Green garlic,2019,2019,ha,17308,A,Official value,,ha,1,17308.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01252,Green garlic,2019,2019,kg/ha,21000,A,Official value,,kg/ha,1,21000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01252,Green garlic,2019,2019,t,363460,A,Official value,,kg,1000,363460000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01252,Green garlic,2020,2020,ha,18150,A,Official value,,ha,1,18150.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01252,Green garlic,2020,2020,kg/ha,20776.9,A,Official value,,kg/ha,1,20776.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01252,Green garlic,2020,2020,t,377100,A,Official value,,kg,1000,377100000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0142,"Groundnuts, excluding shelled",2016,2016,ha,64228,A,Official value,,ha,1,64228.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0142,"Groundnuts, excluding shelled",2016,2016,kg/ha,3206.5,A,Official value,,kg/ha,1,3206.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0142,"Groundnuts, excluding shelled",2016,2016,t,205946,A,Official value,,kg,1000,205946000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0142,"Groundnuts, excluding shelled",2017,2017,ha,65569,A,Official value,,ha,1,65569.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0142,"Groundnuts, excluding shelled",2017,2017,kg/ha,3710.5,A,Official value,,kg/ha,1,3710.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0142,"Groundnuts, excluding shelled",2017,2017,t,243296,A,Official value,,kg,1000,243296000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0142,"Groundnuts, excluding shelled",2018,2018,ha,59501,A,Official value,,ha,1,59501.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0142,"Groundnuts, excluding shelled",2018,2018,kg/ha,3526.7,A,Official value,,kg/ha,1,3526.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0142,"Groundnuts, excluding shelled",2018,2018,t,209843,A,Official value,,kg,1000,209843000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0142,"Groundnuts, excluding shelled",2019,2019,ha,59944,A,Official value,,ha,1,59944.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0142,"Groundnuts, excluding shelled",2019,2019,kg/ha,3316.1,A,Official value,,kg/ha,1,3316.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0142,"Groundnuts, excluding shelled",2019,2019,t,198780,A,Official value,,kg,1000,198780000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0142,"Groundnuts, excluding shelled",2020,2020,ha,66169,A,Official value,,ha,1,66169.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0142,"Groundnuts, excluding shelled",2020,2020,kg/ha,3317,A,Official value,,kg/ha,1,3317.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0142,"Groundnuts, excluding shelled",2020,2020,t,219480,A,Official value,,kg,1000,219480000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01922.01,"Jute, raw or retted",2016,2016,ha,943,E,Estimated value,,ha,1,943.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01922.01,"Jute, raw or retted",2016,2016,kg/ha,2537.2,E,Estimated value,,kg/ha,1,2537.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01922.01,"Jute, raw or retted",2016,2016,t,2391.87,E,Estimated value,,kg,1000,2391870.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01922.01,"Jute, raw or retted",2017,2017,ha,923,I,Value imputed by a receiving agency,,ha,1,923.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01922.01,"Jute, raw or retted",2017,2017,kg/ha,2521.1,E,Estimated value,,kg/ha,1,2521.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01922.01,"Jute, raw or retted",2017,2017,t,2327.86,I,Value imputed by a receiving agency,,kg,1000,2327860.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01922.01,"Jute, raw or retted",2018,2018,ha,903,I,Value imputed by a receiving agency,,ha,1,903.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01922.01,"Jute, raw or retted",2018,2018,kg/ha,2518.6,E,Estimated value,,kg/ha,1,2518.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01922.01,"Jute, raw or retted",2018,2018,t,2273.78,I,Value imputed by a receiving agency,,kg,1000,2273780.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01922.01,"Jute, raw or retted",2019,2019,ha,900,I,Value imputed by a receiving agency,,ha,1,900.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01922.01,"Jute, raw or retted",2019,2019,kg/ha,2525.2,E,Estimated value,,kg/ha,1,2525.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01922.01,"Jute, raw or retted",2019,2019,t,2272.37,I,Value imputed by a receiving agency,,kg,1000,2272370.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01922.01,"Jute, raw or retted",2020,2020,ha,899,I,Value imputed by a receiving agency,,ha,1,899.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01922.01,"Jute, raw or retted",2020,2020,kg/ha,2529.5,E,Estimated value,,kg/ha,1,2529.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01922.01,"Jute, raw or retted",2020,2020,t,2274.35,I,Value imputed by a receiving agency,,kg,1000,2274350.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01322,Lemons and limes,2016,2016,ha,14615,A,Official value,,ha,1,14615.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01322,Lemons and limes,2016,2016,kg/ha,23820.3,A,Official value,,kg/ha,1,23820.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01322,Lemons and limes,2016,2016,t,348126,A,Official value,,kg,1000,348126000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01322,Lemons and limes,2017,2017,ha,15140,A,Official value,,ha,1,15140.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01322,Lemons and limes,2017,2017,kg/ha,24143.8,A,Official value,,kg/ha,1,24143.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01322,Lemons and limes,2017,2017,t,365545,A,Official value,,kg,1000,365545000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01322,Lemons and limes,2018,2018,ha,14702,A,Official value,,ha,1,14702.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01322,Lemons and limes,2018,2018,kg/ha,24120.9,A,Official value,,kg/ha,1,24120.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01322,Lemons and limes,2018,2018,t,354625,A,Official value,,kg,1000,354625000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01322,Lemons and limes,2019,2019,ha,13064,A,Official value,,ha,1,13064.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01322,Lemons and limes,2019,2019,kg/ha,24000,A,Official value,,kg/ha,1,24000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01322,Lemons and limes,2019,2019,t,313540,A,Official value,,kg,1000,313540000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01322,Lemons and limes,2020,2020,ha,16201,A,Official value,,ha,1,16201.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01322,Lemons and limes,2020,2020,kg/ha,23217.7,A,Official value,,kg/ha,1,23217.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01322,Lemons and limes,2020,2020,t,376150,A,Official value,,kg,1000,376150000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01704,"Lentils, dry",2016,2016,ha,771,A,Official value,,ha,1,771.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01704,"Lentils, dry",2016,2016,kg/ha,2063.5,A,Official value,,kg/ha,1,2063.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01704,"Lentils, dry",2016,2016,t,1591,A,Official value,,kg,1000,1591000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01704,"Lentils, dry",2017,2017,ha,1055,A,Official value,,ha,1,1055.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01704,"Lentils, dry",2017,2017,kg/ha,2257.7,A,Official value,,kg/ha,1,2257.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01704,"Lentils, dry",2017,2017,t,2381,A,Official value,,kg,1000,2381000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01704,"Lentils, dry",2018,2018,ha,656,A,Official value,,ha,1,656.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01704,"Lentils, dry",2018,2018,kg/ha,2416.2,A,Official value,,kg/ha,1,2416.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01704,"Lentils, dry",2018,2018,t,1585,A,Official value,,kg,1000,1585000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01704,"Lentils, dry",2019,2019,ha,580,A,Official value,,ha,1,580.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01704,"Lentils, dry",2019,2019,kg/ha,2205.2,A,Official value,,kg/ha,1,2205.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01704,"Lentils, dry",2019,2019,t,1279,A,Official value,,kg,1000,1279000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01704,"Lentils, dry",2020,2020,ha,630,A,Official value,,ha,1,630.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01704,"Lentils, dry",2020,2020,kg/ha,2331.7,A,Official value,,kg/ha,1,2331.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01704,"Lentils, dry",2020,2020,t,1469,A,Official value,,kg,1000,1469000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01214,Lettuce and chicory,2016,2016,ha,3296,A,Official value,,ha,1,3296.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01214,Lettuce and chicory,2016,2016,kg/ha,21407.3,A,Official value,,kg/ha,1,21407.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01214,Lettuce and chicory,2016,2016,t,70563,A,Official value,,kg,1000,70563000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01214,Lettuce and chicory,2017,2017,ha,4173,A,Official value,,ha,1,4173.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01214,Lettuce and chicory,2017,2017,kg/ha,20831.4,A,Official value,,kg/ha,1,20831.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01214,Lettuce and chicory,2017,2017,t,86923,A,Official value,,kg,1000,86923000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01214,Lettuce and chicory,2018,2018,ha,3976,A,Official value,,ha,1,3976.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01214,Lettuce and chicory,2018,2018,kg/ha,20254.8,A,Official value,,kg/ha,1,20254.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01214,Lettuce and chicory,2018,2018,t,80533,A,Official value,,kg,1000,80533000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01214,Lettuce and chicory,2019,2019,ha,3950,A,Official value,,ha,1,3950.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01214,Lettuce and chicory,2019,2019,kg/ha,20000,A,Official value,,kg/ha,1,20000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01214,Lettuce and chicory,2019,2019,t,79000,A,Official value,,kg,1000,79000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01214,Lettuce and chicory,2020,2020,ha,3700,A,Official value,,ha,1,3700.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01214,Lettuce and chicory,2020,2020,kg/ha,21081.1,A,Official value,,kg/ha,1,21081.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01214,Lettuce and chicory,2020,2020,t,78000,A,Official value,,kg,1000,78000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01441,Linseed,2016,2016,ha,5000,X,Value from external organization,Unofficial figure,ha,1,5000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01441,Linseed,2016,2016,kg/ha,1546.6,E,Estimated value,,kg/ha,1,1546.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01441,Linseed,2016,2016,t,7733,A,Official value,,kg,1000,7733000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01441,Linseed,2017,2017,ha,6000,X,Value from external organization,Unofficial figure,ha,1,6000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01441,Linseed,2017,2017,kg/ha,1403.8,E,Estimated value,,kg/ha,1,1403.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01441,Linseed,2017,2017,t,8423,A,Official value,,kg,1000,8423000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01441,Linseed,2018,2018,ha,5000,X,Value from external organization,Unofficial figure,ha,1,5000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01441,Linseed,2018,2018,kg/ha,4000,E,Estimated value,,kg/ha,1,4000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01441,Linseed,2018,2018,t,20000,A,Official value,,kg,1000,20000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01441,Linseed,2019,2019,ha,5000,X,Value from external organization,Unofficial figure,ha,1,5000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01441,Linseed,2019,2019,kg/ha,3600,E,Estimated value,,kg/ha,1,3600.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01441,Linseed,2019,2019,t,18000,A,Official value,,kg,1000,18000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01441,Linseed,2020,2020,ha,5000,X,Value from external organization,Unofficial figure,ha,1,5000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01441,Linseed,2020,2020,kg/ha,3600,E,Estimated value,,kg/ha,1,3600.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01441,Linseed,2020,2020,t,18000,A,Official value,,kg,1000,18000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01709.02,Lupins,2016,2016,ha,208,A,Official value,,ha,1,208.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01709.02,Lupins,2016,2016,kg/ha,1665,A,Official value,,kg/ha,1,1665.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01709.02,Lupins,2016,2016,t,347,A,Official value,,kg,1000,347000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01709.02,Lupins,2017,2017,ha,78,A,Official value,,ha,1,78.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01709.02,Lupins,2017,2017,kg/ha,2111.3,A,Official value,,kg/ha,1,2111.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01709.02,Lupins,2017,2017,t,165,A,Official value,,kg,1000,165000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01709.02,Lupins,2018,2018,ha,105,A,Official value,,ha,1,105.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01709.02,Lupins,2018,2018,kg/ha,1914.3,A,Official value,,kg/ha,1,1914.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01709.02,Lupins,2018,2018,t,201,A,Official value,,kg,1000,201000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01709.02,Lupins,2019,2019,ha,95,A,Official value,,ha,1,95.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01709.02,Lupins,2019,2019,kg/ha,1947.4,A,Official value,,kg/ha,1,1947.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01709.02,Lupins,2019,2019,t,185,A,Official value,,kg,1000,185000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01709.02,Lupins,2020,2020,ha,98,A,Official value,,ha,1,98.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01709.02,Lupins,2020,2020,kg/ha,2071.4,A,Official value,,kg/ha,1,2071.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01709.02,Lupins,2020,2020,t,203,A,Official value,,kg,1000,203000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0112,Maize (corn),2016,2016,ha,1027682,A,Official value,,ha,1,1027682.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0112,Maize (corn),2016,2016,kg/ha,7607.1,A,Official value,,kg/ha,1,7607.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0112,Maize (corn),2016,2016,t,7817640,A,Official value,,kg,1000,7817640000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0112,Maize (corn),2017,2017,ha,1096680,A,Official value,,ha,1,1096680.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0112,Maize (corn),2017,2017,kg/ha,7789.5,A,Official value,,kg/ha,1,7789.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0112,Maize (corn),2017,2017,t,8542635,A,Official value,,kg,1000,8542635000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0112,Maize (corn),2018,2018,ha,680025,A,Official value,,ha,1,680025.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0112,Maize (corn),2018,2018,kg/ha,7516.2,A,Official value,,kg/ha,1,7516.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0112,Maize (corn),2018,2018,t,5111236,A,Official value,,kg,1000,5111236000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0112,Maize (corn),2019,2019,ha,1533571,A,Official value,,ha,1,1533571.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0112,Maize (corn),2019,2019,kg/ha,4951.3,A,Official value,,kg/ha,1,4951.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0112,Maize (corn),2019,2019,t,7593140,A,Official value,,kg,1000,7593140000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0112,Maize (corn),2020,2020,ha,976401,A,Official value,,ha,1,976401.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0112,Maize (corn),2020,2020,kg/ha,7776.7,A,Official value,,kg/ha,1,7776.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0112,Maize (corn),2020,2020,t,7593175,A,Official value,,kg,1000,7593175000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01316,"Mangoes, guavas and mangosteens",2016,2016,ha,112055,A,Official value,,ha,1,112055.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01316,"Mangoes, guavas and mangosteens",2016,2016,kg/ha,11647.3,A,Official value,,kg/ha,1,11647.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01316,"Mangoes, guavas and mangosteens",2016,2016,t,1305134,A,Official value,,kg,1000,1305134000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01316,"Mangoes, guavas and mangosteens",2017,2017,ha,125337,A,Official value,,ha,1,125337.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01316,"Mangoes, guavas and mangosteens",2017,2017,kg/ha,11203.7,A,Official value,,kg/ha,1,11203.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01316,"Mangoes, guavas and mangosteens",2017,2017,t,1404232,A,Official value,,kg,1000,1404232000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01316,"Mangoes, guavas and mangosteens",2018,2018,ha,128592,A,Official value,,ha,1,128592.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01316,"Mangoes, guavas and mangosteens",2018,2018,kg/ha,11115.5,A,Official value,,kg/ha,1,11115.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01316,"Mangoes, guavas and mangosteens",2018,2018,t,1429367,A,Official value,,kg,1000,1429367000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01316,"Mangoes, guavas and mangosteens",2019,2019,ha,126958,A,Official value,,ha,1,126958.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01316,"Mangoes, guavas and mangosteens",2019,2019,kg/ha,11000,A,Official value,,kg/ha,1,11000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01316,"Mangoes, guavas and mangosteens",2019,2019,t,1396540,A,Official value,,kg,1000,1396540000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01316,"Mangoes, guavas and mangosteens",2020,2020,ha,145630,A,Official value,,ha,1,145630.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01316,"Mangoes, guavas and mangosteens",2020,2020,kg/ha,10604.6,A,Official value,,kg/ha,1,10604.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01316,"Mangoes, guavas and mangosteens",2020,2020,t,1544350,A,Official value,,kg,1000,1544350000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01239.01,Okra,2016,2016,ha,4751,A,Official value,,ha,1,4751.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01239.01,Okra,2016,2016,kg/ha,11940.6,A,Official value,,kg/ha,1,11940.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01239.01,Okra,2016,2016,t,56733,A,Official value,,kg,1000,56733000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01239.01,Okra,2017,2017,ha,4462,A,Official value,,ha,1,4462.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01239.01,Okra,2017,2017,kg/ha,12113.1,A,Official value,,kg/ha,1,12113.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01239.01,Okra,2017,2017,t,54051,A,Official value,,kg,1000,54051000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01239.01,Okra,2018,2018,ha,5964,A,Official value,,ha,1,5964.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01239.01,Okra,2018,2018,kg/ha,15497.8,A,Official value,,kg/ha,1,15497.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01239.01,Okra,2018,2018,t,92429,A,Official value,,kg,1000,92429000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01239.01,Okra,2019,2019,ha,4069,A,Official value,,ha,1,4069.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01239.01,Okra,2019,2019,kg/ha,15000,A,Official value,,kg/ha,1,15000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01239.01,Okra,2019,2019,t,61035,A,Official value,,kg,1000,61035000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01239.01,Okra,2020,2020,ha,6150,A,Official value,,ha,1,6150.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01239.01,Okra,2020,2020,kg/ha,14211.4,A,Official value,,kg/ha,1,14211.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01239.01,Okra,2020,2020,t,87400,A,Official value,,kg,1000,87400000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01450,Olives,2016,2016,ha,78968,A,Official value,,ha,1,78968.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01450,Olives,2016,2016,kg/ha,11077.2,A,Official value,,kg/ha,1,11077.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01450,Olives,2016,2016,t,874748,A,Official value,,kg,1000,874748000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01450,Olives,2017,2017,ha,91826,A,Official value,,ha,1,91826.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01450,Olives,2017,2017,kg/ha,11921.7,A,Official value,,kg/ha,1,11921.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01450,Olives,2017,2017,t,1094724,A,Official value,,kg,1000,1094724000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01450,Olives,2018,2018,ha,89955,A,Official value,,ha,1,89955.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01450,Olives,2018,2018,kg/ha,12047.9,A,Official value,,kg/ha,1,12047.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01450,Olives,2018,2018,t,1083771,A,Official value,,kg,1000,1083771000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01450,Olives,2019,2019,ha,103000,A,Official value,,ha,1,103000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01450,Olives,2019,2019,kg/ha,9524.3,A,Official value,,kg/ha,1,9524.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01450,Olives,2019,2019,t,981000,A,Official value,,kg,1000,981000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01450,Olives,2020,2020,ha,101000,A,Official value,,ha,1,101000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01450,Olives,2020,2020,kg/ha,9588.1,A,Official value,,kg/ha,1,9588.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01450,Olives,2020,2020,t,968400,A,Official value,,kg,1000,968400000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01253.02,"Onions and shallots, dry (excluding dehydrated)",2016,2016,ha,69425,A,Official value,,ha,1,69425.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01253.02,"Onions and shallots, dry (excluding dehydrated)",2016,2016,kg/ha,35413.9,A,Official value,,kg/ha,1,35413.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01253.02,"Onions and shallots, dry (excluding dehydrated)",2016,2016,t,2458618,A,Official value,,kg,1000,2458618000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01253.02,"Onions and shallots, dry (excluding dehydrated)",2017,2017,ha,81429,A,Official value,,ha,1,81429.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01253.02,"Onions and shallots, dry (excluding dehydrated)",2017,2017,kg/ha,36414.8,A,Official value,,kg/ha,1,36414.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01253.02,"Onions and shallots, dry (excluding dehydrated)",2017,2017,t,2965218,A,Official value,,kg,1000,2965218000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01253.02,"Onions and shallots, dry (excluding dehydrated)",2018,2018,ha,85765,A,Official value,,ha,1,85765.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01253.02,"Onions and shallots, dry (excluding dehydrated)",2018,2018,kg/ha,35763,A,Official value,,kg/ha,1,35763.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01253.02,"Onions and shallots, dry (excluding dehydrated)",2018,2018,t,3067214,A,Official value,,kg,1000,3067214000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01253.02,"Onions and shallots, dry (excluding dehydrated)",2019,2019,ha,85781,A,Official value,,ha,1,85781.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01253.02,"Onions and shallots, dry (excluding dehydrated)",2019,2019,kg/ha,35874.1,A,Official value,,kg/ha,1,35874.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01253.02,"Onions and shallots, dry (excluding dehydrated)",2019,2019,t,3077316,A,Official value,,kg,1000,3077316000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01253.02,"Onions and shallots, dry (excluding dehydrated)",2020,2020,ha,90084,A,Official value,,ha,1,90084.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01253.02,"Onions and shallots, dry (excluding dehydrated)",2020,2020,kg/ha,35514.1,A,Official value,,kg/ha,1,35514.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01253.02,"Onions and shallots, dry (excluding dehydrated)",2020,2020,t,3199250,A,Official value,,kg,1000,3199250000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01323,Oranges,2016,2016,ha,116387,A,Official value,,ha,1,116387.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01323,Oranges,2016,2016,kg/ha,25252.7,A,Official value,,kg/ha,1,25252.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01323,Oranges,2016,2016,t,2939084,A,Official value,,kg,1000,2939084000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01323,Oranges,2017,2017,ha,128931,A,Official value,,ha,1,128931.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01323,Oranges,2017,2017,kg/ha,24412.6,A,Official value,,kg/ha,1,24412.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01323,Oranges,2017,2017,t,3147545,A,Official value,,kg,1000,3147545000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01323,Oranges,2018,2018,ha,124577,A,Official value,,ha,1,124577.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01323,Oranges,2018,2018,kg/ha,24771.7,A,Official value,,kg/ha,1,24771.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01323,Oranges,2018,2018,t,3085986,A,Official value,,kg,1000,3085986000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01323,Oranges,2019,2019,ha,122705,A,Official value,,ha,1,122705.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01323,Oranges,2019,2019,kg/ha,25000,A,Official value,,kg/ha,1,25000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01323,Oranges,2019,2019,t,3067630,A,Official value,,kg,1000,3067630000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01323,Oranges,2020,2020,ha,180087,A,Official value,,ha,1,180087.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01323,Oranges,2020,2020,kg/ha,22023.8,A,Official value,,kg/ha,1,22023.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01323,Oranges,2020,2020,t,3966200,A,Official value,,kg,1000,3966200000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01241.90,"Other beans, green",2016,2016,ha,23004,I,Value imputed by a receiving agency,,ha,1,23004.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01241.90,"Other beans, green",2016,2016,kg/ha,10325.8,E,Estimated value,,kg/ha,1,10325.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01241.90,"Other beans, green",2016,2016,t,237536.75,I,Value imputed by a receiving agency,,kg,1000,237536750.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01241.90,"Other beans, green",2017,2017,ha,22274,I,Value imputed by a receiving agency,,ha,1,22274.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01241.90,"Other beans, green",2017,2017,kg/ha,10269.4,E,Estimated value,,kg/ha,1,10269.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01241.90,"Other beans, green",2017,2017,t,228742.17,I,Value imputed by a receiving agency,,kg,1000,228742170.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01241.90,"Other beans, green",2018,2018,ha,20721,I,Value imputed by a receiving agency,,ha,1,20721.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01241.90,"Other beans, green",2018,2018,kg/ha,10424.5,E,Estimated value,,kg/ha,1,10424.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01241.90,"Other beans, green",2018,2018,t,216001.43,I,Value imputed by a receiving agency,,kg,1000,216001430.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01241.90,"Other beans, green",2019,2019,ha,19853,I,Value imputed by a receiving agency,,ha,1,19853.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01241.90,"Other beans, green",2019,2019,kg/ha,10466.6,E,Estimated value,,kg/ha,1,10466.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01241.90,"Other beans, green",2019,2019,t,207791.54,I,Value imputed by a receiving agency,,kg,1000,207791540.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01241.90,"Other beans, green",2020,2020,ha,19177,I,Value imputed by a receiving agency,,ha,1,19177.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01241.90,"Other beans, green",2020,2020,kg/ha,10513.9,E,Estimated value,,kg/ha,1,10513.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01241.90,"Other beans, green",2020,2020,t,201620.97,I,Value imputed by a receiving agency,,kg,1000,201620970.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2016,2016,ha,,M,Missing value; data cannot exist,,ha,1,,missing,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2016,2016,t,,M,Missing value; data cannot exist,,kg,1000,,missing,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2017,2017,ha,,M,Missing value; data cannot exist,,ha,1,,missing,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2017,2017,t,,M,Missing value; data cannot exist,,kg,1000,,missing,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2018,2018,ha,,M,Missing value; data cannot exist,,ha,1,,missing,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2018,2018,t,,M,Missing value; data cannot exist,,kg,1000,,missing,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2019,2019,ha,,M,Missing value; data cannot exist,,ha,1,,missing,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2019,2019,t,,M,Missing value; data cannot exist,,kg,1000,,missing,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2020,2020,ha,,M,Missing value; data cannot exist,,ha,1,,missing,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01355.90,Other berries and fruits of the genus vaccinium n.e.c.,2020,2020,t,,M,Missing value; data cannot exist,,kg,1000,,missing,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01329,"Other citrus fruit, n.e.c.",2016,2016,ha,387,E,Estimated value,,ha,1,387.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01329,"Other citrus fruit, n.e.c.",2016,2016,kg/ha,13991.1,E,Estimated value,,kg/ha,1,13991.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01329,"Other citrus fruit, n.e.c.",2016,2016,t,5414.64,E,Estimated value,,kg,1000,5414640.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01329,"Other citrus fruit, n.e.c.",2017,2017,ha,394,I,Value imputed by a receiving agency,,ha,1,394.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01329,"Other citrus fruit, n.e.c.",2017,2017,kg/ha,13803.7,E,Estimated value,,kg/ha,1,13803.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01329,"Other citrus fruit, n.e.c.",2017,2017,t,5438.41,I,Value imputed by a receiving agency,,kg,1000,5438410.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01329,"Other citrus fruit, n.e.c.",2018,2018,ha,400,I,Value imputed by a receiving agency,,ha,1,400.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01329,"Other citrus fruit, n.e.c.",2018,2018,kg/ha,13547.9,E,Estimated value,,kg/ha,1,13547.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01329,"Other citrus fruit, n.e.c.",2018,2018,t,5424.31,I,Value imputed by a receiving agency,,kg,1000,5424310.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01329,"Other citrus fruit, n.e.c.",2019,2019,ha,407,I,Value imputed by a receiving agency,,ha,1,407.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01329,"Other citrus fruit, n.e.c.",2019,2019,kg/ha,13347.5,E,Estimated value,,kg/ha,1,13347.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01329,"Other citrus fruit, n.e.c.",2019,2019,t,5426.02,I,Value imputed by a receiving agency,,kg,1000,5426020.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01329,"Other citrus fruit, n.e.c.",2020,2020,ha,408,I,Value imputed by a receiving agency,,ha,1,408.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01329,"Other citrus fruit, n.e.c.",2020,2020,kg/ha,13296.6,E,Estimated value,,kg/ha,1,13296.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01329,"Other citrus fruit, n.e.c.",2020,2020,t,5426.65,I,Value imputed by a receiving agency,,kg,1000,5426650.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01359.90,"Other fruits, n.e.c.",2016,2016,ha,23293,I,Value imputed by a receiving agency,,ha,1,23293.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01359.90,"Other fruits, n.e.c.",2016,2016,kg/ha,20908.3,E,Estimated value,,kg/ha,1,20908.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01359.90,"Other fruits, n.e.c.",2016,2016,t,487013.81,I,Value imputed by a receiving agency,,kg,1000,487013810.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01359.90,"Other fruits, n.e.c.",2017,2017,ha,23456,I,Value imputed by a receiving agency,,ha,1,23456.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01359.90,"Other fruits, n.e.c.",2017,2017,kg/ha,20805.9,E,Estimated value,,kg/ha,1,20805.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01359.90,"Other fruits, n.e.c.",2017,2017,t,488017.27,I,Value imputed by a receiving agency,,kg,1000,488017270.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01359.90,"Other fruits, n.e.c.",2018,2018,ha,23329,I,Value imputed by a receiving agency,,ha,1,23329.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01359.90,"Other fruits, n.e.c.",2018,2018,kg/ha,20828.8,E,Estimated value,,kg/ha,1,20828.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01359.90,"Other fruits, n.e.c.",2018,2018,t,485913.64,I,Value imputed by a receiving agency,,kg,1000,485913640.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01359.90,"Other fruits, n.e.c.",2019,2019,ha,23194,I,Value imputed by a receiving agency,,ha,1,23194.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01359.90,"Other fruits, n.e.c.",2019,2019,kg/ha,20922.7,E,Estimated value,,kg/ha,1,20922.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01359.90,"Other fruits, n.e.c.",2019,2019,t,485281.86,I,Value imputed by a receiving agency,,kg,1000,485281860.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01359.90,"Other fruits, n.e.c.",2020,2020,ha,23181,I,Value imputed by a receiving agency,,ha,1,23181.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01359.90,"Other fruits, n.e.c.",2020,2020,kg/ha,20935.6,E,Estimated value,,kg/ha,1,20935.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01359.90,"Other fruits, n.e.c.",2020,2020,t,485315.22,I,Value imputed by a receiving agency,,kg,1000,485315220.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2016,2016,ha,1729,A,Official value,,ha,1,1729.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2016,2016,kg/ha,7126.7,A,Official value,,kg/ha,1,7126.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2016,2016,t,12322,A,Official value,,kg,1000,12322000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2017,2017,ha,1195,A,Official value,,ha,1,1195.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2017,2017,kg/ha,3125.9,A,Official value,,kg/ha,1,3125.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2017,2017,t,3734,A,Official value,,kg,1000,3734000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2018,2018,ha,1185,A,Official value,,ha,1,1185.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2018,2018,kg/ha,2760.3,A,Official value,,kg/ha,1,2760.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2018,2018,t,3271,A,Official value,,kg,1000,3271000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2019,2019,ha,1365,A,Official value,,ha,1,1365.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2019,2019,kg/ha,2769.2,A,Official value,,kg/ha,1,2769.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2019,2019,t,3780,A,Official value,,kg,1000,3780000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2020,2020,ha,1407,A,Official value,,ha,1,1407.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2020,2020,kg/ha,2807.4,A,Official value,,kg/ha,1,2807.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2020,2020,t,3950,A,Official value,,kg,1000,3950000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01709.90,Other pulses n.e.c.,2016,2016,ha,3396,E,Estimated value,,ha,1,3396.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01709.90,Other pulses n.e.c.,2016,2016,kg/ha,2208.6,E,Estimated value,,kg/ha,1,2208.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01709.90,Other pulses n.e.c.,2016,2016,t,7499.7,E,Estimated value,,kg,1000,7499700.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01709.90,Other pulses n.e.c.,2017,2017,ha,3412,I,Value imputed by a receiving agency,,ha,1,3412.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01709.90,Other pulses n.e.c.,2017,2017,kg/ha,2218,E,Estimated value,,kg/ha,1,2218.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01709.90,Other pulses n.e.c.,2017,2017,t,7567.92,I,Value imputed by a receiving agency,,kg,1000,7567920.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01709.90,Other pulses n.e.c.,2018,2018,ha,3331,I,Value imputed by a receiving agency,,ha,1,3331.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01709.90,Other pulses n.e.c.,2018,2018,kg/ha,2227,E,Estimated value,,kg/ha,1,2227.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01709.90,Other pulses n.e.c.,2018,2018,t,7419.08,I,Value imputed by a receiving agency,,kg,1000,7419080.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01709.90,Other pulses n.e.c.,2019,2019,ha,3380,E,Estimated value,,ha,1,3380.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01709.90,Other pulses n.e.c.,2019,2019,kg/ha,2217.8,E,Estimated value,,kg/ha,1,2217.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01709.90,Other pulses n.e.c.,2019,2019,t,7495.56,E,Estimated value,,kg,1000,7495560.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01709.90,Other pulses n.e.c.,2020,2020,ha,3349,I,Value imputed by a receiving agency,,ha,1,3349.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01709.90,Other pulses n.e.c.,2020,2020,kg/ha,2233.5,E,Estimated value,,kg/ha,1,2233.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01709.90,Other pulses n.e.c.,2020,2020,t,7480.61,I,Value imputed by a receiving agency,,kg,1000,7480610.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01349.20,Other stone fruits,2016,2016,ha,143,I,Value imputed by a receiving agency,,ha,1,143.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01349.20,Other stone fruits,2016,2016,kg/ha,7639.6,E,Estimated value,,kg/ha,1,7639.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01349.20,Other stone fruits,2016,2016,t,1091.34,I,Value imputed by a receiving agency,,kg,1000,1091340.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01349.20,Other stone fruits,2017,2017,ha,144,I,Value imputed by a receiving agency,,ha,1,144.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01349.20,Other stone fruits,2017,2017,kg/ha,7639.4,E,Estimated value,,kg/ha,1,7639.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01349.20,Other stone fruits,2017,2017,t,1103.12,I,Value imputed by a receiving agency,,kg,1000,1103120.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01349.20,Other stone fruits,2018,2018,ha,146,I,Value imputed by a receiving agency,,ha,1,146.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01349.20,Other stone fruits,2018,2018,kg/ha,7640.8,E,Estimated value,,kg/ha,1,7640.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01349.20,Other stone fruits,2018,2018,t,1116.24,I,Value imputed by a receiving agency,,kg,1000,1116240.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01349.20,Other stone fruits,2019,2019,ha,147,I,Value imputed by a receiving agency,,ha,1,147.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01349.20,Other stone fruits,2019,2019,kg/ha,7644.1,E,Estimated value,,kg/ha,1,7644.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01349.20,Other stone fruits,2019,2019,t,1127.2,I,Value imputed by a receiving agency,,kg,1000,1127200.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01349.20,Other stone fruits,2020,2020,ha,150,I,Value imputed by a receiving agency,,ha,1,150.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01349.20,Other stone fruits,2020,2020,kg/ha,7640.4,E,Estimated value,,kg/ha,1,7640.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01349.20,Other stone fruits,2020,2020,t,1142.49,I,Value imputed by a receiving agency,,kg,1000,1142490.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01319,"Other tropical fruits, n.e.c.",2016,2016,ha,3350,E,Estimated value,,ha,1,3350.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01319,"Other tropical fruits, n.e.c.",2016,2016,kg/ha,7852.4,E,Estimated value,,kg/ha,1,7852.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01319,"Other tropical fruits, n.e.c.",2016,2016,t,26309.36,E,Estimated value,,kg,1000,26309360.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01319,"Other tropical fruits, n.e.c.",2017,2017,ha,3450,I,Value imputed by a receiving agency,,ha,1,3450.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01319,"Other tropical fruits, n.e.c.",2017,2017,kg/ha,7863.9,E,Estimated value,,kg/ha,1,7863.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01319,"Other tropical fruits, n.e.c.",2017,2017,t,27131.96,I,Value imputed by a receiving agency,,kg,1000,27131960.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01319,"Other tropical fruits, n.e.c.",2018,2018,ha,3530,I,Value imputed by a receiving agency,,ha,1,3530.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01319,"Other tropical fruits, n.e.c.",2018,2018,kg/ha,7865.2,E,Estimated value,,kg/ha,1,7865.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01319,"Other tropical fruits, n.e.c.",2018,2018,t,27765.57,I,Value imputed by a receiving agency,,kg,1000,27765570.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01319,"Other tropical fruits, n.e.c.",2019,2019,ha,3444,E,Estimated value,,ha,1,3444.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01319,"Other tropical fruits, n.e.c.",2019,2019,kg/ha,7860.6,E,Estimated value,,kg/ha,1,7860.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01319,"Other tropical fruits, n.e.c.",2019,2019,t,27068.96,E,Estimated value,,kg,1000,27068960.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01319,"Other tropical fruits, n.e.c.",2020,2020,ha,3466,I,Value imputed by a receiving agency,,ha,1,3466.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01319,"Other tropical fruits, n.e.c.",2020,2020,kg/ha,7863.7,E,Estimated value,,kg/ha,1,7863.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01319,"Other tropical fruits, n.e.c.",2020,2020,t,27256.66,I,Value imputed by a receiving agency,,kg,1000,27256660.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01290.90,"Other vegetables, fresh n.e.c.",2016,2016,ha,121260,E,Estimated value,,ha,1,121260.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01290.90,"Other vegetables, fresh n.e.c.",2016,2016,kg/ha,5518.8,E,Estimated value,,kg/ha,1,5518.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01290.90,"Other vegetables, fresh n.e.c.",2016,2016,t,669217.95,I,Value imputed by a receiving agency,,kg,1000,669217950.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01290.90,"Other vegetables, fresh n.e.c.",2017,2017,ha,117348,I,Value imputed by a receiving agency,,ha,1,117348.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01290.90,"Other vegetables, fresh n.e.c.",2017,2017,kg/ha,5907.9,E,Estimated value,,kg/ha,1,5907.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01290.90,"Other vegetables, fresh n.e.c.",2017,2017,t,693281.04,E,Estimated value,,kg,1000,693281040.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01290.90,"Other vegetables, fresh n.e.c.",2018,2018,ha,122472,E,Estimated value,,ha,1,122472.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01290.90,"Other vegetables, fresh n.e.c.",2018,2018,kg/ha,5819.3,E,Estimated value,,kg/ha,1,5819.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01290.90,"Other vegetables, fresh n.e.c.",2018,2018,t,712695.8,I,Value imputed by a receiving agency,,kg,1000,712695800.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01290.90,"Other vegetables, fresh n.e.c.",2019,2019,ha,120360,E,Estimated value,,ha,1,120360.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01290.90,"Other vegetables, fresh n.e.c.",2019,2019,kg/ha,5747.2,E,Estimated value,,kg/ha,1,5747.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01290.90,"Other vegetables, fresh n.e.c.",2019,2019,t,691731.59,E,Estimated value,,kg,1000,691731590.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01290.90,"Other vegetables, fresh n.e.c.",2020,2020,ha,121579,I,Value imputed by a receiving agency,,ha,1,121579.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01290.90,"Other vegetables, fresh n.e.c.",2020,2020,kg/ha,5679.9,E,Estimated value,,kg/ha,1,5679.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01290.90,"Other vegetables, fresh n.e.c.",2020,2020,t,690559.18,I,Value imputed by a receiving agency,,kg,1000,690559180.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01345,Peaches and nectarines,2016,2016,ha,22992,A,Official value,,ha,1,22992.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01345,Peaches and nectarines,2016,2016,kg/ha,14283,A,Official value,,kg/ha,1,14283.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01345,Peaches and nectarines,2016,2016,t,328390,A,Official value,,kg,1000,328390000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01345,Peaches and nectarines,2017,2017,ha,26187,A,Official value,,ha,1,26187.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01345,Peaches and nectarines,2017,2017,kg/ha,16246.8,A,Official value,,kg/ha,1,16246.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01345,Peaches and nectarines,2017,2017,t,425448,A,Official value,,kg,1000,425448000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01345,Peaches and nectarines,2018,2018,ha,17793,A,Official value,,ha,1,17793.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01345,Peaches and nectarines,2018,2018,kg/ha,21074.6,A,Official value,,kg/ha,1,21074.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01345,Peaches and nectarines,2018,2018,t,374981,A,Official value,,kg,1000,374981000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01345,Peaches and nectarines,2019,2019,ha,16649,A,Official value,,ha,1,16649.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01345,Peaches and nectarines,2019,2019,kg/ha,21000,A,Official value,,kg/ha,1,21000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01345,Peaches and nectarines,2019,2019,t,349630,A,Official value,,kg,1000,349630000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01345,Peaches and nectarines,2020,2020,ha,14560,A,Official value,,ha,1,14560.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01345,Peaches and nectarines,2020,2020,kg/ha,18784.3,A,Official value,,kg/ha,1,18784.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01345,Peaches and nectarines,2020,2020,t,273500,A,Official value,,kg,1000,273500000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01342.01,Pears,2016,2016,ha,4666,A,Official value,,ha,1,4666.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01342.01,Pears,2016,2016,kg/ha,14949.1,A,Official value,,kg/ha,1,14949.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01342.01,Pears,2016,2016,t,69752,A,Official value,,kg,1000,69752000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01342.01,Pears,2017,2017,ha,4977,A,Official value,,ha,1,4977.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01342.01,Pears,2017,2017,kg/ha,15498,A,Official value,,kg/ha,1,15498.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01342.01,Pears,2017,2017,t,77132,A,Official value,,kg,1000,77132000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01342.01,Pears,2018,2018,ha,4942,A,Official value,,ha,1,4942.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01342.01,Pears,2018,2018,kg/ha,14200.9,A,Official value,,kg/ha,1,14200.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01342.01,Pears,2018,2018,t,70181,A,Official value,,kg,1000,70181000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01342.01,Pears,2019,2019,ha,4916,A,Official value,,ha,1,4916.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01342.01,Pears,2019,2019,kg/ha,14000,A,Official value,,kg/ha,1,14000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01342.01,Pears,2019,2019,t,68820,A,Official value,,kg,1000,68820000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01342.01,Pears,2020,2020,ha,6850,A,Official value,,ha,1,6850.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01342.01,Pears,2020,2020,kg/ha,11583.9,A,Official value,,kg/ha,1,11583.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01342.01,Pears,2020,2020,t,79350,A,Official value,,kg,1000,79350000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01705,"Peas, dry",2016,2016,ha,136,A,Official value,,ha,1,136.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01705,"Peas, dry",2016,2016,kg/ha,3315.8,A,Official value,,kg/ha,1,3315.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01705,"Peas, dry",2016,2016,t,450,A,Official value,,kg,1000,450000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01705,"Peas, dry",2017,2017,ha,157,A,Official value,,ha,1,157.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01705,"Peas, dry",2017,2017,kg/ha,2971.8,A,Official value,,kg/ha,1,2971.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01705,"Peas, dry",2017,2017,t,467,A,Official value,,kg,1000,467000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01705,"Peas, dry",2018,2018,ha,140,A,Official value,,ha,1,140.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01705,"Peas, dry",2018,2018,kg/ha,3000,A,Official value,,kg/ha,1,3000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01705,"Peas, dry",2018,2018,t,420,A,Official value,,kg,1000,420000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01705,"Peas, dry",2019,2019,ha,125,A,Official value,,ha,1,125.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01705,"Peas, dry",2019,2019,kg/ha,2880,A,Official value,,kg/ha,1,2880.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01705,"Peas, dry",2019,2019,t,360,A,Official value,,kg,1000,360000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01705,"Peas, dry",2020,2020,ha,145,A,Official value,,ha,1,145.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01705,"Peas, dry",2020,2020,kg/ha,2896.6,A,Official value,,kg/ha,1,2896.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01705,"Peas, dry",2020,2020,t,420,A,Official value,,kg,1000,420000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01242,"Peas, green",2016,2016,ha,17571,A,Official value,,ha,1,17571.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01242,"Peas, green",2016,2016,kg/ha,10430.9,A,Official value,,kg/ha,1,10430.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01242,"Peas, green",2016,2016,t,183282,A,Official value,,kg,1000,183282000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01242,"Peas, green",2017,2017,ha,19910,A,Official value,,ha,1,19910.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01242,"Peas, green",2017,2017,kg/ha,10080.4,A,Official value,,kg/ha,1,10080.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01242,"Peas, green",2017,2017,t,200701,A,Official value,,kg,1000,200701000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01242,"Peas, green",2018,2018,ha,20450,A,Official value,,ha,1,20450.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01242,"Peas, green",2018,2018,kg/ha,8212.5,A,Official value,,kg/ha,1,8212.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01242,"Peas, green",2018,2018,t,167945,A,Official value,,kg,1000,167945000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01242,"Peas, green",2019,2019,ha,18935,A,Official value,,ha,1,18935.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01242,"Peas, green",2019,2019,kg/ha,8000,A,Official value,,kg/ha,1,8000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01242,"Peas, green",2019,2019,t,151480,A,Official value,,kg,1000,151480000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01242,"Peas, green",2020,2020,ha,19080,A,Official value,,ha,1,19080.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01242,"Peas, green",2020,2020,kg/ha,7966.5,A,Official value,,kg/ha,1,7966.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01242,"Peas, green",2020,2020,t,152000,A,Official value,,kg,1000,152000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01346,Plums and sloes,2016,2016,ha,1056,A,Official value,,ha,1,1056.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01346,Plums and sloes,2016,2016,kg/ha,11542,A,Official value,,kg/ha,1,11542.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01346,Plums and sloes,2016,2016,t,12187,A,Official value,,kg,1000,12187000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01346,Plums and sloes,2017,2017,ha,1071,A,Official value,,ha,1,1071.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01346,Plums and sloes,2017,2017,kg/ha,13890.8,A,Official value,,kg/ha,1,13890.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01346,Plums and sloes,2017,2017,t,14883,A,Official value,,kg,1000,14883000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01346,Plums and sloes,2018,2018,ha,1150,A,Official value,,ha,1,1150.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01346,Plums and sloes,2018,2018,kg/ha,12547,A,Official value,,kg/ha,1,12547.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01346,Plums and sloes,2018,2018,t,14429,A,Official value,,kg,1000,14429000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01346,Plums and sloes,2019,2019,ha,1265,A,Official value,,ha,1,1265.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01346,Plums and sloes,2019,2019,kg/ha,13000,A,Official value,,kg/ha,1,13000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01346,Plums and sloes,2019,2019,t,16450,A,Official value,,kg,1000,16450000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01346,Plums and sloes,2020,2020,ha,1390,A,Official value,,ha,1,1390.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01346,Plums and sloes,2020,2020,kg/ha,12431.7,A,Official value,,kg/ha,1,12431.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01346,Plums and sloes,2020,2020,t,17280,A,Official value,,kg,1000,17280000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01321,Pomelos and grapefruits,2016,2016,ha,109,A,Official value,,ha,1,109.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01321,Pomelos and grapefruits,2016,2016,kg/ha,14728.5,A,Official value,,kg/ha,1,14728.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01321,Pomelos and grapefruits,2016,2016,t,1609,A,Official value,,kg,1000,1609000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01321,Pomelos and grapefruits,2017,2017,ha,117,A,Official value,,ha,1,117.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01321,Pomelos and grapefruits,2017,2017,kg/ha,14870.7,A,Official value,,kg/ha,1,14870.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01321,Pomelos and grapefruits,2017,2017,t,1737,A,Official value,,kg,1000,1737000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01321,Pomelos and grapefruits,2018,2018,ha,112,A,Official value,,ha,1,112.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01321,Pomelos and grapefruits,2018,2018,kg/ha,13482.1,A,Official value,,kg/ha,1,13482.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01321,Pomelos and grapefruits,2018,2018,t,1510,A,Official value,,kg,1000,1510000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01321,Pomelos and grapefruits,2019,2019,ha,115,A,Official value,,ha,1,115.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01321,Pomelos and grapefruits,2019,2019,kg/ha,14695.7,A,Official value,,kg/ha,1,14695.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01321,Pomelos and grapefruits,2019,2019,t,1690,A,Official value,,kg,1000,1690000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01321,Pomelos and grapefruits,2020,2020,ha,120,A,Official value,,ha,1,120.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01321,Pomelos and grapefruits,2020,2020,kg/ha,14583.3,A,Official value,,kg/ha,1,14583.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01321,Pomelos and grapefruits,2020,2020,t,1750,A,Official value,,kg,1000,1750000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01510,Potatoes,2016,2016,ha,158248,A,Official value,,ha,1,158248.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01510,Potatoes,2016,2016,kg/ha,25993.6,A,Official value,,kg/ha,1,25993.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01510,Potatoes,2016,2016,t,4113441,A,Official value,,kg,1000,4113441000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01510,Potatoes,2017,2017,ha,174311,A,Official value,,ha,1,174311.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01510,Potatoes,2017,2017,kg/ha,27772.4,A,Official value,,kg/ha,1,27772.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01510,Potatoes,2017,2017,t,4841040,A,Official value,,kg,1000,4841040000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01510,Potatoes,2018,2018,ha,171461,A,Official value,,ha,1,171461.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01510,Potatoes,2018,2018,kg/ha,28928.2,A,Official value,,kg/ha,1,28928.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01510,Potatoes,2018,2018,t,4960062,A,Official value,,kg,1000,4960062000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01510,Potatoes,2019,2019,ha,177569,A,Official value,,ha,1,177569.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01510,Potatoes,2019,2019,kg/ha,29287.6,A,Official value,,kg/ha,1,29287.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01510,Potatoes,2019,2019,t,5200563,A,Official value,,kg,1000,5200563000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01510,Potatoes,2020,2020,ha,275640,A,Official value,,ha,1,275640.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01510,Potatoes,2020,2020,kg/ha,24620.3,A,Official value,,kg/ha,1,24620.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01510,Potatoes,2020,2020,t,6786340,A,Official value,,kg,1000,6786340000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01235,"Pumpkins, squash and gourds",2016,2016,ha,22935,A,Official value,,ha,1,22935.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01235,"Pumpkins, squash and gourds",2016,2016,kg/ha,19104.6,A,Official value,,kg/ha,1,19104.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01235,"Pumpkins, squash and gourds",2016,2016,t,438169,A,Official value,,kg,1000,438169000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01235,"Pumpkins, squash and gourds",2017,2017,ha,23995,A,Official value,,ha,1,23995.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01235,"Pumpkins, squash and gourds",2017,2017,kg/ha,19423.8,A,Official value,,kg/ha,1,19423.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01235,"Pumpkins, squash and gourds",2017,2017,t,466073,A,Official value,,kg,1000,466073000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01235,"Pumpkins, squash and gourds",2018,2018,ha,20545,A,Official value,,ha,1,20545.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01235,"Pumpkins, squash and gourds",2018,2018,kg/ha,20954.1,A,Official value,,kg/ha,1,20954.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01235,"Pumpkins, squash and gourds",2018,2018,t,430503,A,Official value,,kg,1000,430503000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01235,"Pumpkins, squash and gourds",2019,2019,ha,18544,A,Official value,,ha,1,18544.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01235,"Pumpkins, squash and gourds",2019,2019,kg/ha,21000,A,Official value,,kg/ha,1,21000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01235,"Pumpkins, squash and gourds",2019,2019,t,389430,A,Official value,,kg,1000,389430000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01235,"Pumpkins, squash and gourds",2020,2020,ha,19250,A,Official value,,ha,1,19250.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01235,"Pumpkins, squash and gourds",2020,2020,kg/ha,21568.8,A,Official value,,kg/ha,1,21568.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01235,"Pumpkins, squash and gourds",2020,2020,t,415200,A,Official value,,kg,1000,415200000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01342.02,Quinces,2016,2016,ha,6,E,Estimated value,,ha,1,6.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01342.02,Quinces,2016,2016,kg/ha,7492.4,E,Estimated value,,kg/ha,1,7492.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01342.02,Quinces,2016,2016,t,44.95,I,Value imputed by a receiving agency,,kg,1000,44950.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01342.02,Quinces,2017,2017,ha,6,E,Estimated value,,ha,1,6.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01342.02,Quinces,2017,2017,kg/ha,7597.7,E,Estimated value,,kg/ha,1,7597.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01342.02,Quinces,2017,2017,t,45.59,I,Value imputed by a receiving agency,,kg,1000,45590.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01342.02,Quinces,2018,2018,ha,6,E,Estimated value,,ha,1,6.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01342.02,Quinces,2018,2018,kg/ha,7425.1,E,Estimated value,,kg/ha,1,7425.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01342.02,Quinces,2018,2018,t,44.55,I,Value imputed by a receiving agency,,kg,1000,44550.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01342.02,Quinces,2019,2019,ha,6,E,Estimated value,,ha,1,6.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01342.02,Quinces,2019,2019,kg/ha,7311.6,E,Estimated value,,kg/ha,1,7311.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01342.02,Quinces,2019,2019,t,43.87,I,Value imputed by a receiving agency,,kg,1000,43870.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01342.02,Quinces,2020,2020,ha,6,E,Estimated value,,ha,1,6.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01342.02,Quinces,2020,2020,kg/ha,7232.3,E,Estimated value,,kg/ha,1,7232.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01342.02,Quinces,2020,2020,t,43.39,I,Value imputed by a receiving agency,,kg,1000,43390.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0113,Rice,2016,2016,ha,568688,A,Official value,,ha,1,568688.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0113,Rice,2016,2016,kg/ha,9335.3,A,Official value,,kg/ha,1,9335.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2016,2016,t,5308873,A,Official value,,kg,1000,5308873000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0113,Rice,2017,2017,ha,549688,A,Official value,,ha,1,549688.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0113,Rice,2017,2017,kg/ha,9024.5,A,Official value,,kg/ha,1,9024.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2017,2017,t,4960662,A,Official value,,kg,1000,4960662000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0113,Rice,2018,2018,ha,361075,A,Official value,,ha,1,361075.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0113,Rice,2018,2018,kg/ha,8651.1,A,Official value,,kg/ha,1,8651.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2018,2018,t,3123708,A,Official value,,kg,1000,3123708000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0113,Rice,2019,2019,ha,548546,A,Official value,,ha,1,548546.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0113,Rice,2019,2019,kg/ha,8758.2,A,Official value,,kg/ha,1,8758.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2019,2019,t,4804296,A,Official value,,kg,1000,4804296000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0113,Rice,2020,2020,ha,499361,A,Official value,,ha,1,499361.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0113,Rice,2020,2020,kg/ha,9620.3,A,Official value,,kg/ha,1,9620.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2020,2020,t,4804000,A,Official value,,kg,1000,4804000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0116,Rye,2016,2016,ha,46450,I,Value imputed by a receiving agency,,ha,1,46450.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0116,Rye,2016,2016,kg/ha,2000.1,E,Estimated value,,kg/ha,1,2000.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0116,Rye,2016,2016,t,92904.4,I,Value imputed by a receiving agency,,kg,1000,92904400.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0116,Rye,2017,2017,ha,47113,I,Value imputed by a receiving agency,,ha,1,47113.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0116,Rye,2017,2017,kg/ha,2000,E,Estimated value,,kg/ha,1,2000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0116,Rye,2017,2017,t,94229,I,Value imputed by a receiving agency,,kg,1000,94229000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0116,Rye,2018,2018,ha,47409,I,Value imputed by a receiving agency,,ha,1,47409.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0116,Rye,2018,2018,kg/ha,1999.9,E,Estimated value,,kg/ha,1,1999.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0116,Rye,2018,2018,t,94814.01,I,Value imputed by a receiving agency,,kg,1000,94814010.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0116,Rye,2019,2019,ha,47527,I,Value imputed by a receiving agency,,ha,1,47527.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0116,Rye,2019,2019,kg/ha,1999.7,E,Estimated value,,kg/ha,1,1999.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0116,Rye,2019,2019,t,95038.05,I,Value imputed by a receiving agency,,kg,1000,95038050.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0116,Rye,2020,2020,ha,47568,I,Value imputed by a receiving agency,,ha,1,47568.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0116,Rye,2020,2020,kg/ha,1999.3,E,Estimated value,,kg/ha,1,1999.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0116,Rye,2020,2020,t,95105.25,I,Value imputed by a receiving agency,,kg,1000,95105250.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01921.01,"Seed cotton, unginned",2016,2016,ha,55440,A,Official value,,ha,1,55440.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01921.01,"Seed cotton, unginned",2016,2016,kg/ha,2615.4,A,Official value,,kg/ha,1,2615.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01921.01,"Seed cotton, unginned",2016,2016,t,145000,A,Official value,,kg,1000,145000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01921.01,"Seed cotton, unginned",2017,2017,ha,91140,A,Official value,,ha,1,91140.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01921.01,"Seed cotton, unginned",2017,2017,kg/ha,2830.8,A,Official value,,kg/ha,1,2830.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01921.01,"Seed cotton, unginned",2017,2017,t,258000,A,Official value,,kg,1000,258000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01921.01,"Seed cotton, unginned",2018,2018,ha,141120,A,Official value,,ha,1,141120.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01921.01,"Seed cotton, unginned",2018,2018,kg/ha,3018.7,A,Official value,,kg/ha,1,3018.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01921.01,"Seed cotton, unginned",2018,2018,t,426000,A,Official value,,kg,1000,426000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01921.01,"Seed cotton, unginned",2019,2019,ha,100544,A,Official value,,ha,1,100544.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01921.01,"Seed cotton, unginned",2019,2019,kg/ha,2804.4,A,Official value,,kg/ha,1,2804.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01921.01,"Seed cotton, unginned",2019,2019,t,281962,A,Official value,,kg,1000,281962000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01921.01,"Seed cotton, unginned",2020,2020,ha,76918,A,Official value,,ha,1,76918.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01921.01,"Seed cotton, unginned",2020,2020,kg/ha,2080.1,E,Estimated value,,kg/ha,1,2080.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01921.01,"Seed cotton, unginned",2020,2020,t,160000,E,Estimated value,,kg,1000,160000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01444,Sesame seed,2016,2016,ha,29344,A,Official value,,ha,1,29344.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01444,Sesame seed,2016,2016,kg/ha,1377.5,A,Official value,,kg/ha,1,1377.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01444,Sesame seed,2016,2016,t,40421,A,Official value,,kg,1000,40421000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01444,Sesame seed,2017,2017,ha,26542,A,Official value,,ha,1,26542.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01444,Sesame seed,2017,2017,kg/ha,1364.8,A,Official value,,kg/ha,1,1364.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01444,Sesame seed,2017,2017,t,36224,A,Official value,,kg,1000,36224000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01444,Sesame seed,2018,2018,ha,28635,A,Official value,,ha,1,28635.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01444,Sesame seed,2018,2018,kg/ha,1248.9,A,Official value,,kg/ha,1,1248.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01444,Sesame seed,2018,2018,t,35763,A,Official value,,kg,1000,35763000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01444,Sesame seed,2019,2019,ha,29100,A,Official value,,ha,1,29100.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01444,Sesame seed,2019,2019,kg/ha,1242.3,A,Official value,,kg/ha,1,1242.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01444,Sesame seed,2019,2019,t,36150,A,Official value,,kg,1000,36150000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01444,Sesame seed,2020,2020,ha,45200,A,Official value,,ha,1,45200.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01444,Sesame seed,2020,2020,kg/ha,1358.4,A,Official value,,kg/ha,1,1358.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01444,Sesame seed,2020,2020,t,61400,A,Official value,,kg,1000,61400000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0114,Sorghum,2016,2016,ha,148071,A,Official value,,ha,1,148071.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0114,Sorghum,2016,2016,kg/ha,4888.1,A,Official value,,kg/ha,1,4888.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0114,Sorghum,2016,2016,t,723791,A,Official value,,kg,1000,723791000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0114,Sorghum,2017,2017,ha,152171,A,Official value,,ha,1,152171.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0114,Sorghum,2017,2017,kg/ha,5305.7,A,Official value,,kg/ha,1,5305.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0114,Sorghum,2017,2017,t,807377,A,Official value,,kg,1000,807377000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0114,Sorghum,2018,2018,ha,154920,A,Official value,,ha,1,154920.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0114,Sorghum,2018,2018,kg/ha,5195.3,A,Official value,,kg/ha,1,5195.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0114,Sorghum,2018,2018,t,804851,A,Official value,,kg,1000,804851000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0114,Sorghum,2019,2019,ha,151375,A,Official value,,ha,1,151375.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0114,Sorghum,2019,2019,kg/ha,5009.8,A,Official value,,kg/ha,1,5009.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0114,Sorghum,2019,2019,t,758362,A,Official value,,kg,1000,758362000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0114,Sorghum,2020,2020,ha,153340,A,Official value,,ha,1,153340.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0114,Sorghum,2020,2020,kg/ha,4944.6,A,Official value,,kg/ha,1,4944.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0114,Sorghum,2020,2020,t,758200,A,Official value,,kg,1000,758200000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0141,Soya beans,2016,2016,ha,13466,A,Official value,,ha,1,13466.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0141,Soya beans,2016,2016,kg/ha,3354.1,A,Official value,,kg/ha,1,3354.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0141,Soya beans,2016,2016,t,45165,A,Official value,,kg,1000,45165000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0141,Soya beans,2017,2017,ha,12879,A,Official value,,ha,1,12879.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0141,Soya beans,2017,2017,kg/ha,2825.3,A,Official value,,kg/ha,1,2825.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0141,Soya beans,2017,2017,t,36388,A,Official value,,kg,1000,36388000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0141,Soya beans,2018,2018,ha,16093,A,Official value,,ha,1,16093.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0141,Soya beans,2018,2018,kg/ha,2920.3,A,Official value,,kg/ha,1,2920.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0141,Soya beans,2018,2018,t,46997,A,Official value,,kg,1000,46997000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0141,Soya beans,2019,2019,ha,12398,A,Official value,,ha,1,12398.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0141,Soya beans,2019,2019,kg/ha,2924.7,A,Official value,,kg/ha,1,2924.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0141,Soya beans,2019,2019,t,36260,A,Official value,,kg,1000,36260000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0141,Soya beans,2020,2020,ha,12623,A,Official value,,ha,1,12623.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0141,Soya beans,2020,2020,kg/ha,2885.2,A,Official value,,kg/ha,1,2885.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0141,Soya beans,2020,2020,t,36420,A,Official value,,kg,1000,36420000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01215,Spinach,2016,2016,ha,1446,A,Official value,,ha,1,1446.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01215,Spinach,2016,2016,kg/ha,16585.3,A,Official value,,kg/ha,1,16585.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01215,Spinach,2016,2016,t,23979,A,Official value,,kg,1000,23979000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01215,Spinach,2017,2017,ha,1680,A,Official value,,ha,1,1680.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01215,Spinach,2017,2017,kg/ha,16330.2,A,Official value,,kg/ha,1,16330.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01215,Spinach,2017,2017,t,27432,A,Official value,,kg,1000,27432000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01215,Spinach,2018,2018,ha,1727,A,Official value,,ha,1,1727.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01215,Spinach,2018,2018,kg/ha,16411.7,A,Official value,,kg/ha,1,16411.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01215,Spinach,2018,2018,t,28343,A,Official value,,kg,1000,28343000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01215,Spinach,2019,2019,ha,1844,A,Official value,,ha,1,1844.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01215,Spinach,2019,2019,kg/ha,16000,A,Official value,,kg/ha,1,16000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01215,Spinach,2019,2019,t,29500,A,Official value,,kg,1000,29500000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01215,Spinach,2020,2020,ha,2010,A,Official value,,ha,1,2010.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01215,Spinach,2020,2020,kg/ha,14925.4,A,Official value,,kg/ha,1,14925.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01215,Spinach,2020,2020,t,30000,A,Official value,,kg,1000,30000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01354,Strawberries,2016,2016,ha,9595,A,Official value,,ha,1,9595.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01354,Strawberries,2016,2016,kg/ha,39497.5,A,Official value,,kg/ha,1,39497.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01354,Strawberries,2016,2016,t,378960,A,Official value,,kg,1000,378960000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01354,Strawberries,2017,2017,ha,8085,A,Official value,,ha,1,8085.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01354,Strawberries,2017,2017,kg/ha,39448.2,A,Official value,,kg/ha,1,39448.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01354,Strawberries,2017,2017,t,318950,A,Official value,,kg,1000,318950000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01354,Strawberries,2018,2018,ha,11604,A,Official value,,ha,1,11604.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01354,Strawberries,2018,2018,kg/ha,38358,A,Official value,,kg/ha,1,38358.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01354,Strawberries,2018,2018,t,445106,A,Official value,,kg,1000,445106000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01354,Strawberries,2019,2019,ha,14350,A,Official value,,ha,1,14350.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01354,Strawberries,2019,2019,kg/ha,38000,A,Official value,,kg/ha,1,38000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01354,Strawberries,2019,2019,t,545284,A,Official value,,kg,1000,545284000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01354,Strawberries,2020,2020,ha,11850,A,Official value,,ha,1,11850.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01354,Strawberries,2020,2020,kg/ha,37023.6,A,Official value,,kg/ha,1,37023.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01354,Strawberries,2020,2020,t,438730,A,Official value,,kg,1000,438730000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01241.01,String beans,2016,2016,ha,46,E,Estimated value,,ha,1,46.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01241.01,String beans,2016,2016,kg/ha,6910.1,E,Estimated value,,kg/ha,1,6910.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01241.01,String beans,2016,2016,t,318.37,E,Estimated value,,kg,1000,318370.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01241.01,String beans,2017,2017,ha,45,E,Estimated value,,ha,1,45.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01241.01,String beans,2017,2017,kg/ha,6910,E,Estimated value,,kg/ha,1,6910.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01241.01,String beans,2017,2017,t,309.42,E,Estimated value,,kg,1000,309420.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01241.01,String beans,2018,2018,ha,45,E,Estimated value,,ha,1,45.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01241.01,String beans,2018,2018,kg/ha,6904.5,E,Estimated value,,kg/ha,1,6904.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01241.01,String beans,2018,2018,t,309.37,E,Estimated value,,kg,1000,309370.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01241.01,String beans,2019,2019,ha,45,E,Estimated value,,ha,1,45.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01241.01,String beans,2019,2019,kg/ha,6908.2,E,Estimated value,,kg/ha,1,6908.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01241.01,String beans,2019,2019,t,312.39,E,Estimated value,,kg,1000,312390.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01241.01,String beans,2020,2020,ha,45,E,Estimated value,,ha,1,45.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01241.01,String beans,2020,2020,kg/ha,6907.6,E,Estimated value,,kg/ha,1,6907.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01241.01,String beans,2020,2020,t,310.39,E,Estimated value,,kg,1000,310390.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01801,Sugar beet,2016,2016,ha,235187,A,Official value,,ha,1,235187.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01801,Sugar beet,2016,2016,kg/ha,47660.7,A,Official value,,kg/ha,1,47660.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01801,Sugar beet,2016,2016,t,11209160,A,Official value,,kg,1000,11209160000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01801,Sugar beet,2017,2017,ha,219908,A,Official value,,ha,1,219908.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01801,Sugar beet,2017,2017,kg/ha,49388.4,A,Official value,,kg/ha,1,49388.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01801,Sugar beet,2017,2017,t,10860921,A,Official value,,kg,1000,10860921000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01801,Sugar beet,2018,2018,ha,207020,A,Official value,,ha,1,207020.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01801,Sugar beet,2018,2018,kg/ha,50127.4,A,Official value,,kg/ha,1,50127.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01801,Sugar beet,2018,2018,t,10377371,A,Official value,,kg,1000,10377371000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01801,Sugar beet,2019,2019,ha,254308,A,Official value,,ha,1,254308.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01801,Sugar beet,2019,2019,kg/ha,48158.8,A,Official value,,kg/ha,1,48158.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01801,Sugar beet,2019,2019,t,12247170,A,Official value,,kg,1000,12247170000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01801,Sugar beet,2020,2020,ha,141235,A,Official value,,ha,1,141235.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01801,Sugar beet,2020,2020,kg/ha,72814.8,A,Official value,,kg/ha,1,72814.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01801,Sugar beet,2020,2020,t,10284000,A,Official value,,kg,1000,10284000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01802,Sugar cane,2016,2016,ha,136938,A,Official value,,ha,1,136938.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01802,Sugar cane,2016,2016,kg/ha,113610,A,Official value,,kg/ha,1,113610.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01802,Sugar cane,2016,2016,t,15557508,A,Official value,,kg,1000,15557508000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01802,Sugar cane,2017,2017,ha,137074,A,Official value,,ha,1,137074.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01802,Sugar cane,2017,2017,kg/ha,112218.3,A,Official value,,kg/ha,1,112218.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01802,Sugar cane,2017,2017,t,15382211,A,Official value,,kg,1000,15382211000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01802,Sugar cane,2018,2018,ha,137572,A,Official value,,ha,1,137572.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01802,Sugar cane,2018,2018,kg/ha,115016.9,A,Official value,,kg/ha,1,115016.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01802,Sugar cane,2018,2018,t,15823103,A,Official value,,kg,1000,15823103000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01802,Sugar cane,2019,2019,ha,138315,A,Official value,,ha,1,138315.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01802,Sugar cane,2019,2019,kg/ha,110877.1,A,Official value,,kg/ha,1,110877.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01802,Sugar cane,2019,2019,t,15335972,A,Official value,,kg,1000,15335972000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01802,Sugar cane,2020,2020,ha,217625,A,Official value,,ha,1,217625.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01802,Sugar cane,2020,2020,kg/ha,72879.7,A,Official value,,kg/ha,1,72879.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01802,Sugar cane,2020,2020,t,15860450,A,Official value,,kg,1000,15860450000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01445,Sunflower seed,2016,2016,ha,6406,A,Official value,,ha,1,6406.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01445,Sunflower seed,2016,2016,kg/ha,2961.9,A,Official value,,kg/ha,1,2961.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01445,Sunflower seed,2016,2016,t,18975,A,Official value,,kg,1000,18975000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01445,Sunflower seed,2017,2017,ha,6925,A,Official value,,ha,1,6925.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01445,Sunflower seed,2017,2017,kg/ha,2905.1,A,Official value,,kg/ha,1,2905.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01445,Sunflower seed,2017,2017,t,20117,A,Official value,,kg,1000,20117000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01445,Sunflower seed,2018,2018,ha,7294,A,Official value,,ha,1,7294.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01445,Sunflower seed,2018,2018,kg/ha,2849.2,A,Official value,,kg/ha,1,2849.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01445,Sunflower seed,2018,2018,t,20782,A,Official value,,kg,1000,20782000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01445,Sunflower seed,2019,2019,ha,7820,A,Official value,,ha,1,7820.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01445,Sunflower seed,2019,2019,kg/ha,2717.4,A,Official value,,kg/ha,1,2717.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01445,Sunflower seed,2019,2019,t,21250,A,Official value,,kg,1000,21250000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01445,Sunflower seed,2020,2020,ha,7880,A,Official value,,ha,1,7880.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01445,Sunflower seed,2020,2020,kg/ha,2715.7,A,Official value,,kg/ha,1,2715.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01445,Sunflower seed,2020,2020,t,21400,A,Official value,,kg,1000,21400000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01530,Sweet potatoes,2016,2016,ha,13482,A,Official value,,ha,1,13482.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01530,Sweet potatoes,2016,2016,kg/ha,33712.3,A,Official value,,kg/ha,1,33712.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01530,Sweet potatoes,2016,2016,t,454493,A,Official value,,kg,1000,454493000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01530,Sweet potatoes,2017,2017,ha,10516,A,Official value,,ha,1,10516.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01530,Sweet potatoes,2017,2017,kg/ha,33787.9,A,Official value,,kg/ha,1,33787.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01530,Sweet potatoes,2017,2017,t,355298,A,Official value,,kg,1000,355298000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01530,Sweet potatoes,2018,2018,ha,15650,A,Official value,,ha,1,15650.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01530,Sweet potatoes,2018,2018,kg/ha,31741.4,A,Official value,,kg/ha,1,31741.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01530,Sweet potatoes,2018,2018,t,496753,A,Official value,,kg,1000,496753000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01530,Sweet potatoes,2019,2019,ha,13348,A,Official value,,ha,1,13348.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01530,Sweet potatoes,2019,2019,kg/ha,33488.2,A,Official value,,kg/ha,1,33488.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01530,Sweet potatoes,2019,2019,t,447000,A,Official value,,kg,1000,447000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01530,Sweet potatoes,2020,2020,ha,19210,A,Official value,,ha,1,19210.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01530,Sweet potatoes,2020,2020,kg/ha,27656.7,A,Official value,,kg/ha,1,27656.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01530,Sweet potatoes,2020,2020,t,531285,A,Official value,,kg,1000,531285000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01324,"Tangerines, mandarins, clementines",2016,2016,ha,45307,I,Value imputed by a receiving agency,,ha,1,45307.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01324,"Tangerines, mandarins, clementines",2016,2016,kg/ha,21182.3,E,Estimated value,,kg/ha,1,21182.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01324,"Tangerines, mandarins, clementines",2016,2016,t,959701.28,E,Estimated value,,kg,1000,959701280.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01324,"Tangerines, mandarins, clementines",2017,2017,ha,47102,I,Value imputed by a receiving agency,,ha,1,47102.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01324,"Tangerines, mandarins, clementines",2017,2017,kg/ha,21458.8,E,Estimated value,,kg/ha,1,21458.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01324,"Tangerines, mandarins, clementines",2017,2017,t,1010753.05,I,Value imputed by a receiving agency,,kg,1000,1010753050.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01324,"Tangerines, mandarins, clementines",2018,2018,ha,47605,I,Value imputed by a receiving agency,,ha,1,47605.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01324,"Tangerines, mandarins, clementines",2018,2018,kg/ha,20697.1,E,Estimated value,,kg/ha,1,20697.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01324,"Tangerines, mandarins, clementines",2018,2018,t,985297.72,E,Estimated value,,kg,1000,985297720.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01324,"Tangerines, mandarins, clementines",2019,2019,ha,49452,I,Value imputed by a receiving agency,,ha,1,49452.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01324,"Tangerines, mandarins, clementines",2019,2019,kg/ha,21314.7,E,Estimated value,,kg/ha,1,21314.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01324,"Tangerines, mandarins, clementines",2019,2019,t,1054044.11,I,Value imputed by a receiving agency,,kg,1000,1054044110.0000001,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01324,"Tangerines, mandarins, clementines",2020,2020,ha,50305,I,Value imputed by a receiving agency,,ha,1,50305.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01324,"Tangerines, mandarins, clementines",2020,2020,kg/ha,21818.7,E,Estimated value,,kg/ha,1,21818.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01324,"Tangerines, mandarins, clementines",2020,2020,t,1097579.28,I,Value imputed by a receiving agency,,kg,1000,1097579280.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01550,Taro,2016,2016,ha,2496,A,Official value,,ha,1,2496.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01550,Taro,2016,2016,kg/ha,34720.1,A,Official value,,kg/ha,1,34720.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01550,Taro,2016,2016,t,86669,A,Official value,,kg,1000,86669000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01550,Taro,2017,2017,ha,3068,A,Official value,,ha,1,3068.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01550,Taro,2017,2017,kg/ha,35577.1,A,Official value,,kg/ha,1,35577.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01550,Taro,2017,2017,t,109153,A,Official value,,kg,1000,109153000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01550,Taro,2018,2018,ha,3360,A,Official value,,ha,1,3360.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01550,Taro,2018,2018,kg/ha,35904.5,A,Official value,,kg/ha,1,35904.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01550,Taro,2018,2018,t,120639,A,Official value,,kg,1000,120639000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01550,Taro,2019,2019,ha,3400,A,Official value,,ha,1,3400.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01550,Taro,2019,2019,kg/ha,35882.4,A,Official value,,kg/ha,1,35882.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01550,Taro,2019,2019,t,122000,A,Official value,,kg,1000,122000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01550,Taro,2020,2020,ha,3625,A,Official value,,ha,1,3625.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01550,Taro,2020,2020,kg/ha,36813.8,A,Official value,,kg/ha,1,36813.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01550,Taro,2020,2020,t,133450,A,Official value,,kg,1000,133450000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01234,Tomatoes,2016,2016,ha,184972,A,Official value,,ha,1,184972.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01234,Tomatoes,2016,2016,kg/ha,39577.4,A,Official value,,kg/ha,1,39577.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01234,Tomatoes,2016,2016,t,7320714,A,Official value,,kg,1000,7320714000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01234,Tomatoes,2017,2017,ha,166206,A,Official value,,ha,1,166206.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01234,Tomatoes,2017,2017,kg/ha,40485.9,A,Official value,,kg/ha,1,40485.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01234,Tomatoes,2017,2017,t,6729004,A,Official value,,kg,1000,6729004000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01234,Tomatoes,2018,2018,ha,174802,A,Official value,,ha,1,174802.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01234,Tomatoes,2018,2018,kg/ha,38773.9,A,Official value,,kg/ha,1,38773.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01234,Tomatoes,2018,2018,t,6777754,A,Official value,,kg,1000,6777754000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01234,Tomatoes,2019,2019,ha,174730,A,Official value,,ha,1,174730.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01234,Tomatoes,2019,2019,kg/ha,39000,A,Official value,,kg/ha,1,39000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01234,Tomatoes,2019,2019,t,6814460,A,Official value,,kg,1000,6814460000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01234,Tomatoes,2020,2020,ha,159668,A,Official value,,ha,1,159668.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01234,Tomatoes,2020,2020,kg/ha,40671.6,A,Official value,,kg/ha,1,40671.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01234,Tomatoes,2020,2020,t,6493950,A,Official value,,kg,1000,6493950000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01709.01,Vetches,2016,2016,ha,746,I,Value imputed by a receiving agency,,ha,1,746.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01709.01,Vetches,2016,2016,kg/ha,2900.6,E,Estimated value,,kg/ha,1,2900.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01709.01,Vetches,2016,2016,t,2165.05,I,Value imputed by a receiving agency,,kg,1000,2165050.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01709.01,Vetches,2017,2017,ha,748,I,Value imputed by a receiving agency,,ha,1,748.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01709.01,Vetches,2017,2017,kg/ha,2934,E,Estimated value,,kg/ha,1,2934.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01709.01,Vetches,2017,2017,t,2194.03,I,Value imputed by a receiving agency,,kg,1000,2194030.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01709.01,Vetches,2018,2018,ha,750,I,Value imputed by a receiving agency,,ha,1,750.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01709.01,Vetches,2018,2018,kg/ha,2968.8,E,Estimated value,,kg/ha,1,2968.8,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01709.01,Vetches,2018,2018,t,2227.68,I,Value imputed by a receiving agency,,kg,1000,2227680.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01709.01,Vetches,2019,2019,ha,754,I,Value imputed by a receiving agency,,ha,1,754.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01709.01,Vetches,2019,2019,kg/ha,3004.4,E,Estimated value,,kg/ha,1,3004.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01709.01,Vetches,2019,2019,t,2264.67,I,Value imputed by a receiving agency,,kg,1000,2264670.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01709.01,Vetches,2020,2020,ha,757,I,Value imputed by a receiving agency,,ha,1,757.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01709.01,Vetches,2020,2020,kg/ha,3039.2,E,Estimated value,,kg/ha,1,3039.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01709.01,Vetches,2020,2020,t,2302.12,I,Value imputed by a receiving agency,,kg,1000,2302120.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01376,"Walnuts, in shell",2016,2016,ha,4590,I,Value imputed by a receiving agency,,ha,1,4590.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01376,"Walnuts, in shell",2016,2016,kg/ha,5205.9,E,Estimated value,,kg/ha,1,5205.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01376,"Walnuts, in shell",2016,2016,t,23894.72,I,Value imputed by a receiving agency,,kg,1000,23894720.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01376,"Walnuts, in shell",2017,2017,ha,4573,I,Value imputed by a receiving agency,,ha,1,4573.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01376,"Walnuts, in shell",2017,2017,kg/ha,5208.9,E,Estimated value,,kg/ha,1,5208.9,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01376,"Walnuts, in shell",2017,2017,t,23818.03,I,Value imputed by a receiving agency,,kg,1000,23818030.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01376,"Walnuts, in shell",2018,2018,ha,4563,I,Value imputed by a receiving agency,,ha,1,4563.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01376,"Walnuts, in shell",2018,2018,kg/ha,5209.1,E,Estimated value,,kg/ha,1,5209.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01376,"Walnuts, in shell",2018,2018,t,23770.13,I,Value imputed by a receiving agency,,kg,1000,23770130.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01376,"Walnuts, in shell",2019,2019,ha,4555,I,Value imputed by a receiving agency,,ha,1,4555.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01376,"Walnuts, in shell",2019,2019,kg/ha,5207.5,E,Estimated value,,kg/ha,1,5207.5,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01376,"Walnuts, in shell",2019,2019,t,23717.66,I,Value imputed by a receiving agency,,kg,1000,23717660.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01376,"Walnuts, in shell",2020,2020,ha,4538,I,Value imputed by a receiving agency,,ha,1,4538.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01376,"Walnuts, in shell",2020,2020,kg/ha,5208.4,E,Estimated value,,kg/ha,1,5208.4,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01376,"Walnuts, in shell",2020,2020,t,23634.85,I,Value imputed by a receiving agency,,kg,1000,23634850.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01221,Watermelons,2016,2016,ha,56313,A,Official value,,ha,1,56313.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01221,Watermelons,2016,2016,kg/ha,29229.6,A,Official value,,kg/ha,1,29229.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01221,Watermelons,2016,2016,t,1646020,A,Official value,,kg,1000,1646020000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01221,Watermelons,2017,2017,ha,38700,A,Official value,,ha,1,38700.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01221,Watermelons,2017,2017,kg/ha,31843,A,Official value,,kg/ha,1,31843.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01221,Watermelons,2017,2017,t,1232312,A,Official value,,kg,1000,1232312000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01221,Watermelons,2018,2018,ha,44000,A,Official value,,ha,1,44000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01221,Watermelons,2018,2018,kg/ha,32543.6,A,Official value,,kg/ha,1,32543.6,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01221,Watermelons,2018,2018,t,1431919,A,Official value,,kg,1000,1431919000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01221,Watermelons,2019,2019,ha,42464,A,Official value,,ha,1,42464.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01221,Watermelons,2019,2019,kg/ha,33000,A,Official value,,kg/ha,1,33000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01221,Watermelons,2019,2019,t,1401300,A,Official value,,kg,1000,1401300000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,01221,Watermelons,2020,2020,ha,40850,A,Official value,,ha,1,40850.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,01221,Watermelons,2020,2020,kg/ha,27637.7,A,Official value,,kg/ha,1,27637.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,01221,Watermelons,2020,2020,t,1129000,A,Official value,,kg,1000,1129000000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0111,Wheat,2016,2016,ha,1408887,A,Official value,,ha,1,1408887.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0111,Wheat,2016,2016,kg/ha,6631.1,A,Official value,,kg/ha,1,6631.1,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0111,Wheat,2016,2016,t,9342538,A,Official value,,kg,1000,9342538000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0111,Wheat,2017,2017,ha,1227611,A,Official value,,ha,1,1227611.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0111,Wheat,2017,2017,kg/ha,6859.7,A,Official value,,kg/ha,1,6859.7,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0111,Wheat,2017,2017,t,8421071,A,Official value,,kg,1000,8421071000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0111,Wheat,2018,2018,ha,1326401,A,Official value,,ha,1,1326401.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0111,Wheat,2018,2018,kg/ha,6294.2,A,Official value,,kg/ha,1,6294.2,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0111,Wheat,2018,2018,t,8348629,A,Official value,,kg,1000,8348629000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0111,Wheat,2019,2019,ha,1316678,A,Official value,,ha,1,1316678.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0111,Wheat,2019,2019,kg/ha,6500.3,A,Official value,,kg/ha,1,6500.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0111,Wheat,2019,2019,t,8558807,A,Official value,,kg,1000,8558807000.0,available,country
+QCL,Crops and livestock products,818,Egypt,5312,Area harvested,0111,Wheat,2020,2020,ha,1429684,A,Official value,,ha,1,1429684.0,available,country
+QCL,Crops and livestock products,818,Egypt,5412,Yield,0111,Wheat,2020,2020,kg/ha,6366.3,A,Official value,,kg/ha,1,6366.3,available,country
+QCL,Crops and livestock products,818,Egypt,5510,Production,0111,Wheat,2020,2020,t,9101785,A,Official value,,kg,1000,9101785000.0,available,country
