@@ -5,6 +5,9 @@ Dimension keys describe governorate, crop, annual date and CAPMAS source.
 `climate_source_id` separately identifies CCKP. `source_row_id` points to the
 one-based row in the team's input CSV, excluding its header. Water is in m³;
 climate is annual °C and mm. Source table and review status survive the join.
+Arabic governorate names are carried from the team's CAPMAS records where
+available; missing Arabic labels are not invented. Source ingestion dates use
+recorded download metadata; FAOSTAT's unavailable retrieval date stays null.
 
 `crop_yield_tons` is inherited from the team's ERD. If later populated it must
 mean production in tonnes, not yield per area. Currently it and water_productivity

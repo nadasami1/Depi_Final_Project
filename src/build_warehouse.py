@@ -157,13 +157,18 @@ def build():
         quality.require_valid()
 
         dim_gov = master.rename(columns={"canonical_name": "governorate_name_en", "governorate_name": "climate_source_name"})
+        arabic_names = local.dropna(subset=["governorate_id", "governorate_ar"]).drop_duplicates("governorate_id").set_index("governorate_id").governorate_ar
+        dim_gov["governorate_name_ar"] = dim_gov.governorate_id.map(arabic_names)
         dim_crop = pd.DataFrame({"crop_id": list(crop_ids.values()), "crop_name": crop_names})
         aggregate = {"medical_aromatic", "others", "vegetables", "green_fodder", "deciduous_fruit_group", "permanent_fruit_group"}
         dim_crop["crop_type"] = dim_crop.crop_name.map(lambda name: "group" if name in aggregate else "crop")
         dim_date = pd.DataFrame({"date_id": range(2016, 2021), "year": range(2016, 2021),
                                  "month": [None]*5, "quarter": [None]*5, "grain": ["annual"]*5})
+        capmas_manifest = json.loads((ROOT / "datasets/raw/capmas_team/source_manifest.json").read_text())
+        climate_manifest = json.loads((ROOT / "datasets/raw/world_bank/ingestion_manifest.json").read_text())
         dim_source = pd.DataFrame({"source_id": [1, 2, 3], "source_name": ["CAPMAS_team_extraction", "World_Bank_CCKP_CRU", "FAOSTAT"],
-                                   "ingestion_date": [quality.checked_at[:10]]*3})
+                                   "ingestion_date": [capmas_manifest[0]["retrieved_at"][:10],
+                                                      climate_manifest[0]["ingestion_date"][:10], None]})
         # Coverage is an integration diagnostic, not proof that missing governorates had zero irrigation.
         grid = pd.MultiIndex.from_product([master.governorate_id, range(2016, 2021)], names=["governorate_id", "year"]).to_frame(index=False)
         observed = detail.groupby(["governorate_id", "year"]).agg(observation_count=("fact_id", "size"), review_required=("review_required", "max")).reset_index()

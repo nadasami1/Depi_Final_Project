@@ -36,3 +36,16 @@ run_id,checked_at,dataset,check_name,severity,status,failed_count,total_count,de
 926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,faostat,missing_source_values,warning,warning,12,1137,"Missing source values retained, not replaced by zero"
 926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,faostat,duplicate_source_keys,error,pass,0,1137,
 926f0076-3347-4915-b11d-ec9f0836c885,2026-11-23T13:57:43.586928+00:00,coverage,governorate_year_without_capmas,warning,warning,26,135,No observation is not evidence of zero irrigation
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,capmas,source_extraction_review,warning,warning,2028,7377,Retained as review_required; not certified observations
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,capmas,supported_units,error,pass,0,7377,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,capmas,negative_values,error,pass,0,7377,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,capmas,missing_values,error,pass,0,7377,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,capmas,unmapped_governorates,error,pass,0,6247,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,capmas,duplicate_observation_keys,error,pass,0,6247,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,climate,unique_governorate_year,error,pass,0,135,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,climate,missing_numeric_values,error,pass,0,135,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,fact_water_usage,climate_join_coverage,error,pass,0,4404,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,fact_water_usage,production_not_available,warning,warning,4404,4404,No governorate production invented; productivity left null
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,faostat,missing_source_values,warning,warning,12,1137,"Missing source values retained, not replaced by zero"
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,faostat,duplicate_source_keys,error,pass,0,1137,
+dffb321c-7251-4e89-9d7e-956d00007557,2026-11-23T14:02:11.226554+00:00,coverage,governorate_year_without_capmas,warning,warning,26,135,No observation is not evidence of zero irrigation
