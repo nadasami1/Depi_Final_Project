@@ -1,5 +1,10 @@
 # T12, T17 and T22 execution handoff
 
+Current cloud evidence supersedes the earlier deployment prerequisites below:
+[Azure live execution](azure_live_execution_2026_11_23.md). Notebook 03 successfully
+uses the real T15 schema and T20 governorate IDs. T12/T17 ran live; T22 is staged
+in Silver pending Gold/Synapse access.
+
 ## T12: team results now enter the same log
 
 Every build imports the 25 source CAPMAS table-validation results into
@@ -26,8 +31,8 @@ References:
 
 The actual Spark notebook transformations passed CI smoke tests against the team's
 data, with local Parquet sinks. Live Delta execution still requires the existing
-Databricks workspace and storage permission. Follow `docs/azure_runbook.md`; no
-account or credentials are present in the repository or on the local machine.
+Databricks workspace and storage permission. Follow `docs/azure_runbook.md`; no credentials are committed to the repository. The live CLI sign-in state is
+kept only in the ignored local work folder.
 
 ## T22: executable Synapse load
 

@@ -1,6 +1,8 @@
 # Azure execution runbook
 
-No Azure account/filesystem identity was available locally during implementation.
+The original local-preview procedure below predates the successful live connection.
+For the actual team paths, executed notebook and current blockers, use
+[Azure live execution](azure_live_execution_2026_11_23.md).
 The scripts do not provision resources or grant access.
 
 1. The Azure lead supplies an existing ADLS Gen2 account and filesystem. Authenticate

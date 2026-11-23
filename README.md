@@ -89,8 +89,10 @@ flowchart LR
     L -. team ADF integration .-> O[Synapse fact targets]
 ```
 
-Solid paths run locally. Dashed paths need the team's existing Azure account,
-permissions and integration. No resources are provisioned.
+Solid paths show the local pipeline. The separate live team integration now runs
+on Databricks serverless and writes Delta into ADLS Silver; Gold/Synapse serving
+remains pending. See the [live execution report](docs/azure_live_execution_2026_11_23.md).
+No new classic cluster or dedicated SQL pool was provisioned.
 
 Both Spark notebooks also pass a GitHub Actions smoke test using local files
 and Parquet sinks. This verifies their transformations, not live ADLS access
@@ -153,6 +155,12 @@ model tables with no relationship that would allocate national crop production.
 
 ## Azure execution
 
+Current deployed notebook, output paths, run links and remaining permissions:
+[live execution report](docs/azure_live_execution_2026_11_23.md).
+The commands below describe the optional local-preview publisher; the successful
+cloud run uses the team's T20 Delta inputs through notebook 03.
+
+
 ```sh
 python -m pip install -r requirements-azure.txt
 python src/publish_adls.py --dry-run
@@ -170,5 +178,7 @@ dedicated Synapse fact DDL are provided. See [Azure runbook](docs/azure_runbook.
 - [Model grains and quality-log interface](docs/data_model.md)
 - [Presentation rehearsal notes](docs/presentation_rehearsal.md)
 
-Live Azure execution, team schema integration, Power BI Windows acceptance,
-and the human rehearsal remain explicit external actions.
+Live T12 logging and T17 unit conversions ran successfully on the team's Azure
+environment. T22 produced 4,404 joined water rows in Silver staging using the
+team's governorate IDs. Gold publication and Synapse serving still need platform
+access. Power BI Windows acceptance and the human rehearsal also remain.

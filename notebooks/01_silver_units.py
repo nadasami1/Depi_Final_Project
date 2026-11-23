@@ -32,7 +32,7 @@ for filename in ["faostat_crop_production_egypt_2016_2020.csv", "faostat_irrigat
     frame = spark.read.option("header", True).csv(raw_base + "/faostat/" + filename)
     converted = convert_units(frame, "Unit", "Value", {
         "t": ("kg", 1000.0), "ha": ("ha", 1.0), "kg/ha": ("kg/ha", 1.0), "1000 ha": ("ha", 1000.0)})
-    converted.write.format("delta").mode("overwrite").save(silver_base + "/" + filename[:-4])
+    converted.write.format("delta").option("delta.columnMapping.mode", "name").mode("overwrite").save(silver_base + "/" + filename[:-4])
 
 # COMMAND ----------
 # Climate already uses °C and mm: ingest original Excel separately with the local
