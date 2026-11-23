@@ -27,3 +27,7 @@ Validate row counts and sample converted values after each live step. Publishing
 creates a new run directory rather than overwriting Bronze history. Local tests
 and the dry run do not verify cloud access, Delta commits, Synapse loads or Power BI
 Service refresh. No account keys are stored in the repository.
+
+`tests/spark_smoke.py` runs the actual notebook transformations with local Spark
+and a Parquet test sink. This tests expressions and results without cloud access;
+it does not verify Delta transaction writes or workspace permissions.
